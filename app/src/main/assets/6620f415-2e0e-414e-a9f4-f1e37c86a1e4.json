@@ -1,0 +1,68 @@
+{
+  "data": {
+    "page": 0,
+    "limit": 10,
+    "total_count": 6,
+    "total_pages": 1,
+    "items": [
+      {
+        "id": "f205fcb7-19aa-41ce-aba1-e50c95c43257",
+        "title": "CHÍNH THỨC: Đối tác ăn ý của Ibra trở lại San Siro",
+        "description": "<h1><span style=\"font-family: &quot;Times New Roman&quot;; font-weight: bold; color: rgb(0, 0, 255);\">AC MILAN CÔNG BỐ BẢN HỢP ĐỒNG MỚI</span></h1>",
+        "thumb": "https://drive.google.com/uc?export=view&id=13cTZbdE6WmpVByPwCkt44lRqQa_NqYC8",
+        "active": true,
+        "published_time": "2020-09-13T08:43:14.688231Z",
+        "last_modified_time": "2020-09-13T08:43:14.688231Z"
+      },
+      {
+        "id": "79f2c434-15b3-44bd-ba2b-12fcf41f13a3",
+        "title": "Solsa ra tay, MU sắp có tân binh khủng...",
+        "description": "<h2><span style=\"font-weight: bold; color: rgb(0, 0, 255);\">MU SẮP RA MẮT TÂN BINH THỨ 2 ?</span></h2>",
+        "thumb": "https://drive.google.com/uc?export=view&id=16GuB4nJK5jngl6ym130VuK465CwV1Zxf",
+        "active": true,
+        "published_time": "2020-09-10T11:07:34.6582026Z",
+        "last_modified_time": "2020-09-10T11:07:34.6582026Z"
+      },
+      {
+        "id": "b6422e0a-161a-44e8-945f-4e239a6c7c5a",
+        "title": "Eric Bailly lên tiếng về tương lai ở Man Đỏ",
+        "description": "<h1><span style=\"font-weight: bold; font-family: &quot;Times New Roman&quot;; color: rgb(0, 0, 255);\">ERIC BAILLY CHIA SẺ VỀ TƯƠNG LẠI TẠI SÂN OTF</span></h1>",
+        "thumb": "https://drive.google.com/uc?export=view&id=1km-XVFL02kcYVc9V0xFHbz1z_miytnqz",
+        "active": true,
+        "published_time": "2020-09-07T05:36:33.3787734Z",
+        "last_modified_time": "2020-09-07T05:36:33.3787734Z"
+      },
+      {
+        "id": "5b9aa6bc-19a5-4067-b0e7-a552a60ab1e4",
+        "title": "Thương vụ Oblak đến Chelsea có kết quả cuối cùng",
+        "description": "<h1><span style=\"font-weight: bold; color: rgb(0, 0, 255);\">CHỐT THƯƠNG VỤ OBLAK ĐẾN CHELSEA</span></h1>",
+        "thumb": "https://drive.google.com/uc?export=view&id=1Ggof7VQamTTjeq4GcUET7Z9lgsPSJLK1",
+        "active": true,
+        "published_time": "2020-09-07T05:00:48.1345133Z",
+        "last_modified_time": "2020-09-07T05:00:48.1345133Z"
+      },
+      {
+        "id": "4456fd91-eb8a-4099-b056-327c7662edc8",
+        "title": "Liverpool thanh lý hàng hoạt cầu thủ",
+        "description": "<p><span style=\"color: rgb(0, 0, 255); font-weight: bold; font-size: 33px;\">THE KOP THANH LỌC LỰC LƯỢNG</span><br></p>",
+        "thumb": "https://drive.google.com/uc?export=view&id=1XZ8pp7gIqNDYQcxmKt6wrG4LQrU5IaJp",
+        "active": true,
+        "published_time": "2020-09-07T04:34:07.4373835Z",
+        "last_modified_time": "2020-09-07T04:34:07.4373835Z"
+      },
+      {
+        "id": "726c06fe-6926-4997-9683-47e93fc20f21",
+        "title": "Sau Vaan De Beek, MU sẽ cuỗm tiếp Thiago từ Hùm Xám?",
+        "description": "<h1><span style=\"font-weight: bold; color: rgb(0, 0, 255);\">Quỷ Đỏ Manchester nâng cấp tuyến giữa với Thiago</span></h1>",
+        "thumb": "https://drive.google.com/uc?export=view&id=1c6yUI9QaXRPRe4vJLbuf3IqKyDsRJMWy",
+        "active": true,
+        "published_time": "2020-09-07T04:17:56.0928049Z",
+        "last_modified_time": "2020-09-07T04:17:56.0928049Z"
+      }
+    ],
+    "has_prev_page": false,
+    "has_next_page": true
+  },
+  "code": 200,
+  "status": true
+}

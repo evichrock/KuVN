@@ -1,0 +1,672 @@
+{
+  "data": {
+    "id": "3364a292-3a43-4fbe-82e1-96c24f87f775",
+    "ref_id": 0,
+    "name": "Canadian Soccer League",
+    "thumb": "https://media.api-sports.io/football/leagues/258.png",
+    "active": true,
+    "last_modified_time": "2020-09-02T21:28:50.7913033Z",
+    "standings": [
+      {
+        "group": "Regular Season",
+        "top_team": {
+          "name": "Hamilton City",
+          "win": 4,
+          "lose": 2,
+          "draw": 1,
+          "rank": 1,
+          "points": 13,
+          "logo": "https://media.api-sports.io/football/teams/2023.png"
+        },
+        "teams": [
+          {
+            "name": "Hamilton City",
+            "win": 4,
+            "lose": 2,
+            "draw": 1,
+            "rank": 1,
+            "points": 13,
+            "logo": "https://media.api-sports.io/football/teams/2023.png"
+          },
+          {
+            "name": "SC Scarborough",
+            "win": 4,
+            "lose": 1,
+            "draw": 0,
+            "rank": 2,
+            "points": 12,
+            "logo": "https://media.api-sports.io/football/teams/2019.png"
+          },
+          {
+            "name": "FC Vorkuta",
+            "win": 3,
+            "lose": 1,
+            "draw": 2,
+            "rank": 3,
+            "points": 11,
+            "logo": "https://media.api-sports.io/football/teams/2024.png"
+          },
+          {
+            "name": "Serbian White Eagles",
+            "win": 2,
+            "lose": 3,
+            "draw": 1,
+            "rank": 4,
+            "points": 7,
+            "logo": "https://media.api-sports.io/football/teams/2016.png"
+          },
+          {
+            "name": "Csc Missisauga",
+            "win": 0,
+            "lose": 0,
+            "draw": 0,
+            "rank": 5,
+            "points": 0,
+            "logo": "https://media.api-sports.io/football/teams/2028.png"
+          },
+          {
+            "name": "Real Mississauga",
+            "win": 0,
+            "lose": 0,
+            "draw": 0,
+            "rank": 6,
+            "points": 0,
+            "logo": "https://media.api-sports.io/football/teams/2027.png"
+          },
+          {
+            "name": "Brantford Galaxy",
+            "win": 0,
+            "lose": 6,
+            "draw": 0,
+            "rank": 7,
+            "points": 0,
+            "logo": "https://media.api-sports.io/football/teams/2022.png"
+          }
+        ]
+      }
+    ],
+    "matches": [
+      {
+        "time": "2020-10-03T23:00:00Z",
+        "home": {
+          "name": "Serbian White Eagles",
+          "logo": "https://media.api-sports.io/football/teams/2016.png"
+        },
+        "away": {
+          "name": "Brantford Galaxy",
+          "logo": "https://media.api-sports.io/football/teams/2022.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-03T21:00:00Z",
+        "home": {
+          "name": "SC Scarborough",
+          "logo": "https://media.api-sports.io/football/teams/2019.png"
+        },
+        "away": {
+          "name": "FC Vorkuta",
+          "logo": "https://media.api-sports.io/football/teams/2024.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-26T23:00:00Z",
+        "home": {
+          "name": "FC Vorkuta",
+          "logo": "https://media.api-sports.io/football/teams/2024.png"
+        },
+        "away": {
+          "name": "Hamilton City",
+          "logo": "https://media.api-sports.io/football/teams/2023.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-26T21:00:00Z",
+        "home": {
+          "name": "Brantford Galaxy",
+          "logo": "https://media.api-sports.io/football/teams/2022.png"
+        },
+        "away": {
+          "name": "SC Scarborough",
+          "logo": "https://media.api-sports.io/football/teams/2019.png"
+        },
+        "score": {}
+      }
+    ],
+    "histories": [
+      {
+        "time": "2020-09-23T23:15:00Z",
+        "home": {
+          "name": "Serbian White Eagles",
+          "logo": "https://media.api-sports.io/football/teams/2016.png"
+        },
+        "away": {
+          "name": "SC Scarborough",
+          "logo": "https://media.api-sports.io/football/teams/2019.png"
+        },
+        "home_score": 3,
+        "away_score": 0,
+        "score": {
+          "h1": "1-0",
+          "ft": "3-0"
+        }
+      },
+      {
+        "time": "2020-09-22T23:15:00Z",
+        "home": {
+          "name": "Brantford Galaxy",
+          "logo": "https://media.api-sports.io/football/teams/2022.png"
+        },
+        "away": {
+          "name": "Hamilton City",
+          "logo": "https://media.api-sports.io/football/teams/2023.png"
+        },
+        "home_score": 1,
+        "away_score": 3,
+        "score": {
+          "h1": "0-2",
+          "ft": "1-3"
+        }
+      },
+      {
+        "time": "2020-09-19T23:00:00Z",
+        "home": {
+          "name": "SC Scarborough",
+          "logo": "https://media.api-sports.io/football/teams/2019.png"
+        },
+        "away": {
+          "name": "Serbian White Eagles",
+          "logo": "https://media.api-sports.io/football/teams/2016.png"
+        },
+        "home_score": 0,
+        "away_score": 3,
+        "score": {
+          "ft": "0-3"
+        }
+      },
+      {
+        "time": "2020-09-19T21:00:00Z",
+        "home": {
+          "name": "Hamilton City",
+          "logo": "https://media.api-sports.io/football/teams/2023.png"
+        },
+        "away": {
+          "name": "Brantford Galaxy",
+          "logo": "https://media.api-sports.io/football/teams/2022.png"
+        },
+        "home_score": 1,
+        "away_score": 0,
+        "score": {
+          "ft": "1-0"
+        }
+      },
+      {
+        "time": "2020-09-12T23:00:00Z",
+        "home": {
+          "name": "FC Vorkuta",
+          "logo": "https://media.api-sports.io/football/teams/2024.png"
+        },
+        "away": {
+          "name": "Serbian White Eagles",
+          "logo": "https://media.api-sports.io/football/teams/2016.png"
+        },
+        "home_score": 1,
+        "away_score": 1,
+        "score": {
+          "ft": "1-1"
+        }
+      },
+      {
+        "time": "2020-09-12T21:00:00Z",
+        "home": {
+          "name": "Hamilton City",
+          "logo": "https://media.api-sports.io/football/teams/2023.png"
+        },
+        "away": {
+          "name": "SC Scarborough",
+          "logo": "https://media.api-sports.io/football/teams/2019.png"
+        },
+        "home_score": 1,
+        "away_score": 2,
+        "score": {
+          "ft": "1-2"
+        }
+      },
+      {
+        "time": "2020-09-05T23:00:00Z",
+        "home": {
+          "name": "Serbian White Eagles",
+          "logo": "https://media.api-sports.io/football/teams/2016.png"
+        },
+        "away": {
+          "name": "Hamilton City",
+          "logo": "https://media.api-sports.io/football/teams/2023.png"
+        },
+        "home_score": 3,
+        "away_score": 4,
+        "score": {
+          "ft": "3-4"
+        }
+      },
+      {
+        "time": "2020-09-05T21:00:00Z",
+        "home": {
+          "name": "Brantford Galaxy",
+          "logo": "https://media.api-sports.io/football/teams/2022.png"
+        },
+        "away": {
+          "name": "FC Vorkuta",
+          "logo": "https://media.api-sports.io/football/teams/2024.png"
+        },
+        "home_score": 2,
+        "away_score": 5,
+        "score": {
+          "ft": "2-5"
+        }
+      },
+      {
+        "time": "2020-09-02T23:15:00Z",
+        "home": {
+          "name": "SC Scarborough",
+          "logo": "https://media.api-sports.io/football/teams/2019.png"
+        },
+        "away": {
+          "name": "Brantford Galaxy",
+          "logo": "https://media.api-sports.io/football/teams/2022.png"
+        },
+        "home_score": 4,
+        "away_score": 2,
+        "score": {
+          "ft": "4-2"
+        }
+      },
+      {
+        "time": "2020-09-01T23:15:00Z",
+        "home": {
+          "name": "Hamilton City",
+          "logo": "https://media.api-sports.io/football/teams/2023.png"
+        },
+        "away": {
+          "name": "FC Vorkuta",
+          "logo": "https://media.api-sports.io/football/teams/2024.png"
+        },
+        "home_score": 1,
+        "away_score": 1,
+        "score": {
+          "ft": "1-1"
+        }
+      },
+      {
+        "time": "2020-08-29T23:00:00Z",
+        "home": {
+          "name": "FC Vorkuta",
+          "logo": "https://media.api-sports.io/football/teams/2024.png"
+        },
+        "away": {
+          "name": "SC Scarborough",
+          "logo": "https://media.api-sports.io/football/teams/2019.png"
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "score": {
+          "ft": "0-1"
+        }
+      },
+      {
+        "time": "2020-08-29T21:00:00Z",
+        "home": {
+          "name": "Brantford Galaxy",
+          "logo": "https://media.api-sports.io/football/teams/2022.png"
+        },
+        "away": {
+          "name": "Serbian White Eagles",
+          "logo": "https://media.api-sports.io/football/teams/2016.png"
+        },
+        "home_score": 0,
+        "away_score": 4,
+        "score": {
+          "ft": "0-4"
+        }
+      },
+      {
+        "time": "2020-08-22T23:00:00Z",
+        "home": {
+          "name": "Serbian White Eagles",
+          "logo": "https://media.api-sports.io/football/teams/2016.png"
+        },
+        "away": {
+          "name": "FC Vorkuta",
+          "logo": "https://media.api-sports.io/football/teams/2024.png"
+        },
+        "home_score": 1,
+        "away_score": 3,
+        "score": {
+          "ft": "1-3"
+        }
+      },
+      {
+        "time": "2020-08-22T21:00:00Z",
+        "home": {
+          "name": "SC Scarborough",
+          "logo": "https://media.api-sports.io/football/teams/2019.png"
+        },
+        "away": {
+          "name": "Hamilton City",
+          "logo": "https://media.api-sports.io/football/teams/2023.png"
+        },
+        "home_score": 7,
+        "away_score": 2,
+        "score": {
+          "ft": "7-2"
+        }
+      },
+      {
+        "time": "2020-08-15T23:00:00Z",
+        "home": {
+          "name": "Hamilton City",
+          "logo": "https://media.api-sports.io/football/teams/2023.png"
+        },
+        "away": {
+          "name": "Serbian White Eagles",
+          "logo": "https://media.api-sports.io/football/teams/2016.png"
+        },
+        "home_score": 6,
+        "away_score": 4,
+        "score": {
+          "ft": "6-4"
+        }
+      },
+      {
+        "time": "2020-08-15T21:00:00Z",
+        "home": {
+          "name": "FC Vorkuta",
+          "logo": "https://media.api-sports.io/football/teams/2024.png"
+        },
+        "away": {
+          "name": "Brantford Galaxy",
+          "logo": "https://media.api-sports.io/football/teams/2022.png"
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "score": {
+          "ft": "2-0"
+        }
+      }
+    ],
+    "history_groups": [
+      {
+        "group": "Tháng 09, 2020",
+        "matches": [
+          {
+            "time": "2020-09-23T23:15:00Z",
+            "home": {
+              "name": "Serbian White Eagles",
+              "logo": "https://media.api-sports.io/football/teams/2016.png"
+            },
+            "away": {
+              "name": "SC Scarborough",
+              "logo": "https://media.api-sports.io/football/teams/2019.png"
+            },
+            "home_score": 3,
+            "away_score": 0,
+            "score": {
+              "h1": "1-0",
+              "ft": "3-0"
+            }
+          },
+          {
+            "time": "2020-09-22T23:15:00Z",
+            "home": {
+              "name": "Brantford Galaxy",
+              "logo": "https://media.api-sports.io/football/teams/2022.png"
+            },
+            "away": {
+              "name": "Hamilton City",
+              "logo": "https://media.api-sports.io/football/teams/2023.png"
+            },
+            "home_score": 1,
+            "away_score": 3,
+            "score": {
+              "h1": "0-2",
+              "ft": "1-3"
+            }
+          },
+          {
+            "time": "2020-09-19T23:00:00Z",
+            "home": {
+              "name": "SC Scarborough",
+              "logo": "https://media.api-sports.io/football/teams/2019.png"
+            },
+            "away": {
+              "name": "Serbian White Eagles",
+              "logo": "https://media.api-sports.io/football/teams/2016.png"
+            },
+            "home_score": 0,
+            "away_score": 3,
+            "score": {
+              "ft": "0-3"
+            }
+          },
+          {
+            "time": "2020-09-19T21:00:00Z",
+            "home": {
+              "name": "Hamilton City",
+              "logo": "https://media.api-sports.io/football/teams/2023.png"
+            },
+            "away": {
+              "name": "Brantford Galaxy",
+              "logo": "https://media.api-sports.io/football/teams/2022.png"
+            },
+            "home_score": 1,
+            "away_score": 0,
+            "score": {
+              "ft": "1-0"
+            }
+          },
+          {
+            "time": "2020-09-12T23:00:00Z",
+            "home": {
+              "name": "FC Vorkuta",
+              "logo": "https://media.api-sports.io/football/teams/2024.png"
+            },
+            "away": {
+              "name": "Serbian White Eagles",
+              "logo": "https://media.api-sports.io/football/teams/2016.png"
+            },
+            "home_score": 1,
+            "away_score": 1,
+            "score": {
+              "ft": "1-1"
+            }
+          },
+          {
+            "time": "2020-09-12T21:00:00Z",
+            "home": {
+              "name": "Hamilton City",
+              "logo": "https://media.api-sports.io/football/teams/2023.png"
+            },
+            "away": {
+              "name": "SC Scarborough",
+              "logo": "https://media.api-sports.io/football/teams/2019.png"
+            },
+            "home_score": 1,
+            "away_score": 2,
+            "score": {
+              "ft": "1-2"
+            }
+          },
+          {
+            "time": "2020-09-05T23:00:00Z",
+            "home": {
+              "name": "Serbian White Eagles",
+              "logo": "https://media.api-sports.io/football/teams/2016.png"
+            },
+            "away": {
+              "name": "Hamilton City",
+              "logo": "https://media.api-sports.io/football/teams/2023.png"
+            },
+            "home_score": 3,
+            "away_score": 4,
+            "score": {
+              "ft": "3-4"
+            }
+          },
+          {
+            "time": "2020-09-05T21:00:00Z",
+            "home": {
+              "name": "Brantford Galaxy",
+              "logo": "https://media.api-sports.io/football/teams/2022.png"
+            },
+            "away": {
+              "name": "FC Vorkuta",
+              "logo": "https://media.api-sports.io/football/teams/2024.png"
+            },
+            "home_score": 2,
+            "away_score": 5,
+            "score": {
+              "ft": "2-5"
+            }
+          },
+          {
+            "time": "2020-09-02T23:15:00Z",
+            "home": {
+              "name": "SC Scarborough",
+              "logo": "https://media.api-sports.io/football/teams/2019.png"
+            },
+            "away": {
+              "name": "Brantford Galaxy",
+              "logo": "https://media.api-sports.io/football/teams/2022.png"
+            },
+            "home_score": 4,
+            "away_score": 2,
+            "score": {
+              "ft": "4-2"
+            }
+          },
+          {
+            "time": "2020-09-01T23:15:00Z",
+            "home": {
+              "name": "Hamilton City",
+              "logo": "https://media.api-sports.io/football/teams/2023.png"
+            },
+            "away": {
+              "name": "FC Vorkuta",
+              "logo": "https://media.api-sports.io/football/teams/2024.png"
+            },
+            "home_score": 1,
+            "away_score": 1,
+            "score": {
+              "ft": "1-1"
+            }
+          }
+        ]
+      },
+      {
+        "group": "Tháng 08, 2020",
+        "matches": [
+          {
+            "time": "2020-08-29T23:00:00Z",
+            "home": {
+              "name": "FC Vorkuta",
+              "logo": "https://media.api-sports.io/football/teams/2024.png"
+            },
+            "away": {
+              "name": "SC Scarborough",
+              "logo": "https://media.api-sports.io/football/teams/2019.png"
+            },
+            "home_score": 0,
+            "away_score": 1,
+            "score": {
+              "ft": "0-1"
+            }
+          },
+          {
+            "time": "2020-08-29T21:00:00Z",
+            "home": {
+              "name": "Brantford Galaxy",
+              "logo": "https://media.api-sports.io/football/teams/2022.png"
+            },
+            "away": {
+              "name": "Serbian White Eagles",
+              "logo": "https://media.api-sports.io/football/teams/2016.png"
+            },
+            "home_score": 0,
+            "away_score": 4,
+            "score": {
+              "ft": "0-4"
+            }
+          },
+          {
+            "time": "2020-08-22T23:00:00Z",
+            "home": {
+              "name": "Serbian White Eagles",
+              "logo": "https://media.api-sports.io/football/teams/2016.png"
+            },
+            "away": {
+              "name": "FC Vorkuta",
+              "logo": "https://media.api-sports.io/football/teams/2024.png"
+            },
+            "home_score": 1,
+            "away_score": 3,
+            "score": {
+              "ft": "1-3"
+            }
+          },
+          {
+            "time": "2020-08-22T21:00:00Z",
+            "home": {
+              "name": "SC Scarborough",
+              "logo": "https://media.api-sports.io/football/teams/2019.png"
+            },
+            "away": {
+              "name": "Hamilton City",
+              "logo": "https://media.api-sports.io/football/teams/2023.png"
+            },
+            "home_score": 7,
+            "away_score": 2,
+            "score": {
+              "ft": "7-2"
+            }
+          },
+          {
+            "time": "2020-08-15T23:00:00Z",
+            "home": {
+              "name": "Hamilton City",
+              "logo": "https://media.api-sports.io/football/teams/2023.png"
+            },
+            "away": {
+              "name": "Serbian White Eagles",
+              "logo": "https://media.api-sports.io/football/teams/2016.png"
+            },
+            "home_score": 6,
+            "away_score": 4,
+            "score": {
+              "ft": "6-4"
+            }
+          },
+          {
+            "time": "2020-08-15T21:00:00Z",
+            "home": {
+              "name": "FC Vorkuta",
+              "logo": "https://media.api-sports.io/football/teams/2024.png"
+            },
+            "away": {
+              "name": "Brantford Galaxy",
+              "logo": "https://media.api-sports.io/football/teams/2022.png"
+            },
+            "home_score": 2,
+            "away_score": 0,
+            "score": {
+              "ft": "2-0"
+            }
+          }
+        ]
+      }
+    ],
+    "expired_time": "2020-09-24T12:22:28.5599315Z"
+  },
+  "code": 200,
+  "status": true
+}

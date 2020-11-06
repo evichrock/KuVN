@@ -1,0 +1,4072 @@
+{
+  "data": {
+    "id": "7f92153d-a177-4282-9975-e0ce02831ca0",
+    "ref_id": 0,
+    "name": "Bundesliga 2",
+    "thumb": "https://media.api-sports.io/football/leagues/79.png",
+    "active": true,
+    "last_modified_time": "2020-09-02T21:31:02.0320116Z",
+    "standings": [
+      {
+        "group": "2. Bundesliga",
+        "top_team": {
+          "name": "Erzgebirge AUE",
+          "win": 1,
+          "lose": 0,
+          "draw": 0,
+          "rank": 1,
+          "points": 3,
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "teams": [
+          {
+            "name": "Erzgebirge AUE",
+            "win": 1,
+            "lose": 0,
+            "draw": 0,
+            "rank": 1,
+            "points": 3,
+            "logo": "https://media.api-sports.io/football/teams/190.png"
+          },
+          {
+            "name": "Hannover 96",
+            "win": 1,
+            "lose": 0,
+            "draw": 0,
+            "rank": 2,
+            "points": 3,
+            "logo": "https://media.api-sports.io/football/teams/166.png"
+          },
+          {
+            "name": "FC Heidenheim",
+            "win": 1,
+            "lose": 0,
+            "draw": 0,
+            "rank": 3,
+            "points": 3,
+            "logo": "https://media.api-sports.io/football/teams/180.png"
+          },
+          {
+            "name": "SV Sandhausen",
+            "win": 1,
+            "lose": 0,
+            "draw": 0,
+            "rank": 4,
+            "points": 3,
+            "logo": "https://media.api-sports.io/football/teams/189.png"
+          },
+          {
+            "name": "Hamburger SV",
+            "win": 1,
+            "lose": 0,
+            "draw": 0,
+            "rank": 5,
+            "points": 3,
+            "logo": "https://media.api-sports.io/football/teams/175.png"
+          },
+          {
+            "name": "Holstein Kiel",
+            "win": 1,
+            "lose": 0,
+            "draw": 0,
+            "rank": 6,
+            "points": 3,
+            "logo": "https://media.api-sports.io/football/teams/191.png"
+          },
+          {
+            "name": "VfL BOCHUM",
+            "win": 0,
+            "lose": 0,
+            "draw": 1,
+            "rank": 7,
+            "points": 1,
+            "logo": "https://media.api-sports.io/football/teams/176.png"
+          },
+          {
+            "name": "FC St. Pauli",
+            "win": 0,
+            "lose": 0,
+            "draw": 1,
+            "rank": 8,
+            "points": 1,
+            "logo": "https://media.api-sports.io/football/teams/186.png"
+          },
+          {
+            "name": "Jahn Regensburg",
+            "win": 0,
+            "lose": 0,
+            "draw": 1,
+            "rank": 9,
+            "points": 1,
+            "logo": "https://media.api-sports.io/football/teams/177.png"
+          },
+          {
+            "name": "FC Nurnberg",
+            "win": 0,
+            "lose": 0,
+            "draw": 1,
+            "rank": 10,
+            "points": 1,
+            "logo": "https://media.api-sports.io/football/teams/171.png"
+          },
+          {
+            "name": "SpVgg Greuther Furth",
+            "win": 0,
+            "lose": 0,
+            "draw": 1,
+            "rank": 11,
+            "points": 1,
+            "logo": "https://media.api-sports.io/football/teams/178.png"
+          },
+          {
+            "name": "VfL Osnabruck",
+            "win": 0,
+            "lose": 0,
+            "draw": 1,
+            "rank": 12,
+            "points": 1,
+            "logo": "https://media.api-sports.io/football/teams/1324.png"
+          },
+          {
+            "name": "SV Darmstadt 98",
+            "win": 0,
+            "lose": 1,
+            "draw": 0,
+            "rank": 13,
+            "points": 0,
+            "logo": "https://media.api-sports.io/football/teams/181.png"
+          },
+          {
+            "name": "Fortuna Dusseldorf",
+            "win": 0,
+            "lose": 1,
+            "draw": 0,
+            "rank": 14,
+            "points": 0,
+            "logo": "https://media.api-sports.io/football/teams/158.png"
+          },
+          {
+            "name": "SC Paderborn 07",
+            "win": 0,
+            "lose": 1,
+            "draw": 0,
+            "rank": 15,
+            "points": 0,
+            "logo": "https://media.api-sports.io/football/teams/185.png"
+          },
+          {
+            "name": "Eintracht Braunschweig",
+            "win": 0,
+            "lose": 1,
+            "draw": 0,
+            "rank": 16,
+            "points": 0,
+            "logo": "https://media.api-sports.io/football/teams/744.png"
+          },
+          {
+            "name": "Karlsruher SC",
+            "win": 0,
+            "lose": 1,
+            "draw": 0,
+            "rank": 17,
+            "points": 0,
+            "logo": "https://media.api-sports.io/football/teams/785.png"
+          },
+          {
+            "name": "FC Wurzburger Kickers",
+            "win": 0,
+            "lose": 1,
+            "draw": 0,
+            "rank": 18,
+            "points": 0,
+            "logo": "https://media.api-sports.io/football/teams/784.png"
+          }
+        ]
+      }
+    ],
+    "matches": [
+      {
+        "time": "2021-05-23T13:30:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-23T13:30:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-23T13:30:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-23T13:30:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-23T13:30:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-23T13:30:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-23T13:30:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-23T13:30:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-23T13:30:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-16T13:30:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-16T13:30:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-16T13:30:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-16T13:30:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-16T13:30:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-16T13:30:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-16T13:30:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-16T13:30:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-16T13:30:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-09T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-09T00:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-09T00:00:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-09T00:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-09T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-09T00:00:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-09T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-09T00:00:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-05-09T00:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-25T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-25T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-25T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-25T00:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-25T00:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-25T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-25T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-25T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-25T00:00:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-21T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-21T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-21T00:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-21T00:00:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-21T00:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-21T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-21T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-21T00:00:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-21T00:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-18T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-18T00:00:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-18T00:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-18T00:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-18T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-18T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-18T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-18T00:00:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-18T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-11T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-11T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-11T00:00:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-11T00:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-11T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-11T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-11T00:00:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-11T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-11T00:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-04T00:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-04T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-04T00:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-04T00:00:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-04T00:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-04T00:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-04T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-04T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-04-04T00:00:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-21T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-21T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-21T00:00:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-21T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-21T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-21T00:00:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-21T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-21T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-21T00:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-14T00:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-14T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-14T00:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-14T00:00:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-14T00:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-14T00:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-14T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-14T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-14T00:00:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-07T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-07T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-07T00:00:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-07T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-07T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-07T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-07T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-07T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-03-07T00:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-28T00:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-28T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-28T00:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-28T00:00:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-28T00:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-28T00:00:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-28T00:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-28T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-28T00:00:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-21T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-21T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-21T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-21T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-21T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-21T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-21T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-21T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-21T00:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-14T00:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-14T00:00:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-14T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-14T00:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-14T00:00:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-14T00:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-14T00:00:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-14T00:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-14T00:00:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-07T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-07T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-07T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-07T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-07T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-07T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-07T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-07T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-02-07T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-31T00:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-31T00:00:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-31T00:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-31T00:00:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-31T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-31T00:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-31T00:00:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-31T00:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-31T00:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-27T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-27T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-27T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-27T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-27T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-27T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-27T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-27T00:00:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-27T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-24T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-24T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-24T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-24T00:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-24T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-24T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-24T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-24T00:00:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-24T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-17T00:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-17T00:00:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-17T00:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-17T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-17T00:00:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-17T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-17T00:00:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-17T00:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-17T00:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-10T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-10T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-10T00:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-10T00:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-10T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-10T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-10T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-10T00:00:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-10T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-03T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-03T00:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-03T00:00:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-03T00:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-03T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-03T00:00:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-03T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-03T00:00:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2021-01-03T00:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-20T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-20T00:00:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-20T00:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-20T00:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-20T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-20T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-20T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-20T00:00:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-20T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-16T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-16T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-16T00:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-16T00:00:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-16T00:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-16T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-16T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-16T00:00:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-16T00:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-13T00:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-13T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-13T00:00:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-13T00:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-13T00:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-13T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-13T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-13T00:00:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-13T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-06T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-06T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-06T00:00:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-06T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-06T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-06T00:00:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-06T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-06T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-12-06T00:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-29T00:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-29T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-29T00:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-29T00:00:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-29T00:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-29T00:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-29T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-29T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-29T00:00:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-22T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-22T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-22T00:00:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-22T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-22T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-22T00:00:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-22T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-22T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-22T00:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-08T00:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-08T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-08T00:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-08T00:00:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-08T00:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-08T00:00:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-08T00:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-08T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-08T00:00:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-01T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-01T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-01T00:00:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-01T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-01T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-01T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-01T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-01T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-11-01T00:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-25T00:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-25T00:00:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-25T00:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-25T00:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-25T00:00:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-25T00:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-25T00:00:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-25T00:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-25T00:00:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-18T00:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-18T00:00:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-18T00:00:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-18T00:00:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-18T00:00:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-18T00:00:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-18T00:00:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-18T00:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-18T00:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-05T18:30:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-04T11:30:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-04T11:30:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-04T11:30:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-03T11:00:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-03T11:00:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-03T11:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-02T16:30:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-02T16:30:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-28T18:30:00Z",
+        "home": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "away": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-27T11:30:00Z",
+        "home": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "away": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-27T11:30:00Z",
+        "home": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "away": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-27T11:30:00Z",
+        "home": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "away": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-26T11:00:00Z",
+        "home": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "away": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-26T11:00:00Z",
+        "home": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "away": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-26T11:00:00Z",
+        "home": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "away": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-25T16:30:00Z",
+        "home": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "away": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-25T16:30:00Z",
+        "home": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "away": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "score": {}
+      }
+    ],
+    "histories": [
+      {
+        "time": "2020-09-21T18:30:00Z",
+        "home": {
+          "name": "VfL BOCHUM",
+          "logo": "https://media.api-sports.io/football/teams/176.png"
+        },
+        "away": {
+          "name": "FC St. Pauli",
+          "logo": "https://media.api-sports.io/football/teams/186.png"
+        },
+        "home_score": 2,
+        "away_score": 2,
+        "score": {
+          "h1": "1-0",
+          "ft": "2-2"
+        }
+      },
+      {
+        "time": "2020-09-20T11:30:00Z",
+        "home": {
+          "name": "FC Heidenheim",
+          "logo": "https://media.api-sports.io/football/teams/180.png"
+        },
+        "away": {
+          "name": "Eintracht Braunschweig",
+          "logo": "https://media.api-sports.io/football/teams/744.png"
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "score": {
+          "h1": "1-0",
+          "ft": "2-0"
+        }
+      },
+      {
+        "time": "2020-09-20T11:30:00Z",
+        "home": {
+          "name": "SpVgg Greuther Furth",
+          "logo": "https://media.api-sports.io/football/teams/178.png"
+        },
+        "away": {
+          "name": "VfL Osnabruck",
+          "logo": "https://media.api-sports.io/football/teams/1324.png"
+        },
+        "home_score": 1,
+        "away_score": 1,
+        "score": {
+          "h1": "1-1",
+          "ft": "1-1"
+        }
+      },
+      {
+        "time": "2020-09-20T11:30:00Z",
+        "home": {
+          "name": "Holstein Kiel",
+          "logo": "https://media.api-sports.io/football/teams/191.png"
+        },
+        "away": {
+          "name": "SC Paderborn 07",
+          "logo": "https://media.api-sports.io/football/teams/185.png"
+        },
+        "home_score": 1,
+        "away_score": 0,
+        "score": {
+          "h1": "0-0",
+          "ft": "1-0"
+        }
+      },
+      {
+        "time": "2020-09-19T11:00:00Z",
+        "home": {
+          "name": "Hannover 96",
+          "logo": "https://media.api-sports.io/football/teams/166.png"
+        },
+        "away": {
+          "name": "Karlsruher SC",
+          "logo": "https://media.api-sports.io/football/teams/785.png"
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "score": {
+          "h1": "1-0",
+          "ft": "2-0"
+        }
+      },
+      {
+        "time": "2020-09-19T11:00:00Z",
+        "home": {
+          "name": "SV Sandhausen",
+          "logo": "https://media.api-sports.io/football/teams/189.png"
+        },
+        "away": {
+          "name": "SV Darmstadt 98",
+          "logo": "https://media.api-sports.io/football/teams/181.png"
+        },
+        "home_score": 3,
+        "away_score": 2,
+        "score": {
+          "h1": "2-1",
+          "ft": "3-2"
+        }
+      },
+      {
+        "time": "2020-09-19T11:00:00Z",
+        "home": {
+          "name": "FC Wurzburger Kickers",
+          "logo": "https://media.api-sports.io/football/teams/784.png"
+        },
+        "away": {
+          "name": "Erzgebirge AUE",
+          "logo": "https://media.api-sports.io/football/teams/190.png"
+        },
+        "home_score": 0,
+        "away_score": 3,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-3"
+        }
+      },
+      {
+        "time": "2020-09-18T16:30:00Z",
+        "home": {
+          "name": "Hamburger SV",
+          "logo": "https://media.api-sports.io/football/teams/175.png"
+        },
+        "away": {
+          "name": "Fortuna Dusseldorf",
+          "logo": "https://media.api-sports.io/football/teams/158.png"
+        },
+        "home_score": 2,
+        "away_score": 1,
+        "score": {
+          "h1": "1-0",
+          "ft": "2-1"
+        }
+      },
+      {
+        "time": "2020-09-18T16:30:00Z",
+        "home": {
+          "name": "Jahn Regensburg",
+          "logo": "https://media.api-sports.io/football/teams/177.png"
+        },
+        "away": {
+          "name": "FC Nurnberg",
+          "logo": "https://media.api-sports.io/football/teams/171.png"
+        },
+        "home_score": 1,
+        "away_score": 1,
+        "score": {
+          "h1": "0-1",
+          "ft": "1-1"
+        }
+      }
+    ],
+    "history_groups": [
+      {
+        "group": "Tháng 09, 2020",
+        "matches": [
+          {
+            "time": "2020-09-21T18:30:00Z",
+            "home": {
+              "name": "VfL BOCHUM",
+              "logo": "https://media.api-sports.io/football/teams/176.png"
+            },
+            "away": {
+              "name": "FC St. Pauli",
+              "logo": "https://media.api-sports.io/football/teams/186.png"
+            },
+            "home_score": 2,
+            "away_score": 2,
+            "score": {
+              "h1": "1-0",
+              "ft": "2-2"
+            }
+          },
+          {
+            "time": "2020-09-20T11:30:00Z",
+            "home": {
+              "name": "FC Heidenheim",
+              "logo": "https://media.api-sports.io/football/teams/180.png"
+            },
+            "away": {
+              "name": "Eintracht Braunschweig",
+              "logo": "https://media.api-sports.io/football/teams/744.png"
+            },
+            "home_score": 2,
+            "away_score": 0,
+            "score": {
+              "h1": "1-0",
+              "ft": "2-0"
+            }
+          },
+          {
+            "time": "2020-09-20T11:30:00Z",
+            "home": {
+              "name": "SpVgg Greuther Furth",
+              "logo": "https://media.api-sports.io/football/teams/178.png"
+            },
+            "away": {
+              "name": "VfL Osnabruck",
+              "logo": "https://media.api-sports.io/football/teams/1324.png"
+            },
+            "home_score": 1,
+            "away_score": 1,
+            "score": {
+              "h1": "1-1",
+              "ft": "1-1"
+            }
+          },
+          {
+            "time": "2020-09-20T11:30:00Z",
+            "home": {
+              "name": "Holstein Kiel",
+              "logo": "https://media.api-sports.io/football/teams/191.png"
+            },
+            "away": {
+              "name": "SC Paderborn 07",
+              "logo": "https://media.api-sports.io/football/teams/185.png"
+            },
+            "home_score": 1,
+            "away_score": 0,
+            "score": {
+              "h1": "0-0",
+              "ft": "1-0"
+            }
+          },
+          {
+            "time": "2020-09-19T11:00:00Z",
+            "home": {
+              "name": "Hannover 96",
+              "logo": "https://media.api-sports.io/football/teams/166.png"
+            },
+            "away": {
+              "name": "Karlsruher SC",
+              "logo": "https://media.api-sports.io/football/teams/785.png"
+            },
+            "home_score": 2,
+            "away_score": 0,
+            "score": {
+              "h1": "1-0",
+              "ft": "2-0"
+            }
+          },
+          {
+            "time": "2020-09-19T11:00:00Z",
+            "home": {
+              "name": "SV Sandhausen",
+              "logo": "https://media.api-sports.io/football/teams/189.png"
+            },
+            "away": {
+              "name": "SV Darmstadt 98",
+              "logo": "https://media.api-sports.io/football/teams/181.png"
+            },
+            "home_score": 3,
+            "away_score": 2,
+            "score": {
+              "h1": "2-1",
+              "ft": "3-2"
+            }
+          },
+          {
+            "time": "2020-09-19T11:00:00Z",
+            "home": {
+              "name": "FC Wurzburger Kickers",
+              "logo": "https://media.api-sports.io/football/teams/784.png"
+            },
+            "away": {
+              "name": "Erzgebirge AUE",
+              "logo": "https://media.api-sports.io/football/teams/190.png"
+            },
+            "home_score": 0,
+            "away_score": 3,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-3"
+            }
+          },
+          {
+            "time": "2020-09-18T16:30:00Z",
+            "home": {
+              "name": "Hamburger SV",
+              "logo": "https://media.api-sports.io/football/teams/175.png"
+            },
+            "away": {
+              "name": "Fortuna Dusseldorf",
+              "logo": "https://media.api-sports.io/football/teams/158.png"
+            },
+            "home_score": 2,
+            "away_score": 1,
+            "score": {
+              "h1": "1-0",
+              "ft": "2-1"
+            }
+          },
+          {
+            "time": "2020-09-18T16:30:00Z",
+            "home": {
+              "name": "Jahn Regensburg",
+              "logo": "https://media.api-sports.io/football/teams/177.png"
+            },
+            "away": {
+              "name": "FC Nurnberg",
+              "logo": "https://media.api-sports.io/football/teams/171.png"
+            },
+            "home_score": 1,
+            "away_score": 1,
+            "score": {
+              "h1": "0-1",
+              "ft": "1-1"
+            }
+          }
+        ]
+      }
+    ],
+    "expired_time": "2020-09-24T12:23:35.1792201Z"
+  },
+  "code": 200,
+  "status": true
+}

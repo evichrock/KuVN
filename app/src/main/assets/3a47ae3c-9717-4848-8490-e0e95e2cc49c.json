@@ -1,0 +1,3927 @@
+{
+  "data": {
+    "id": "3a47ae3c-9717-4848-8490-e0e95e2cc49c",
+    "ref_id": 0,
+    "name": "UEFA Europa League",
+    "thumb": "https://media.api-sports.io/football/leagues/3.png",
+    "active": true,
+    "last_modified_time": "2020-09-02T21:25:29.4414009Z",
+    "matches": [
+      {
+        "time": "2020-10-01T18:30:00Z",
+        "home": {
+          "name": "BSC Young Boys",
+          "logo": "https://media.api-sports.io/football/teams/565.png"
+        },
+        "away": {
+          "name": "Tirana",
+          "logo": "https://media.api-sports.io/football/teams/694.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-10-01T18:00:00Z",
+        "home": {
+          "name": "Dinamo Brest",
+          "logo": "https://media.api-sports.io/football/teams/386.png"
+        },
+        "away": {
+          "name": "Ludogorets",
+          "logo": "https://media.api-sports.io/football/teams/566.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T19:00:00Z",
+        "home": {
+          "name": "Willem II",
+          "logo": "https://media.api-sports.io/football/teams/195.png"
+        },
+        "away": {
+          "name": "Rangers",
+          "logo": "https://media.api-sports.io/football/teams/257.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T19:00:00Z",
+        "home": {
+          "name": "Sporting CP",
+          "logo": "https://media.api-sports.io/football/teams/228.png"
+        },
+        "away": {
+          "name": "Aberdeen",
+          "logo": "https://media.api-sports.io/football/teams/252.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:45:00Z",
+        "home": {
+          "name": "HNK Rijeka",
+          "logo": "https://media.api-sports.io/football/teams/561.png"
+        },
+        "away": {
+          "name": "Kolos Kovalivka",
+          "logo": "https://media.api-sports.io/football/teams/3627.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:30:00Z",
+        "home": {
+          "name": "AC Milan",
+          "logo": "https://media.api-sports.io/football/teams/489.png"
+        },
+        "away": {
+          "name": "Bodo/Glimt",
+          "logo": "https://media.api-sports.io/football/teams/327.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:30:00Z",
+        "home": {
+          "name": "FC Basel 1893",
+          "logo": "https://media.api-sports.io/football/teams/551.png"
+        },
+        "away": {
+          "name": "Anorthosis",
+          "logo": "https://media.api-sports.io/football/teams/2269.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:30:00Z",
+        "home": {
+          "name": "Lask Linz",
+          "logo": "https://media.api-sports.io/football/teams/1026.png"
+        },
+        "away": {
+          "name": "Dunajska Streda",
+          "logo": "https://media.api-sports.io/football/teams/2257.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:30:00Z",
+        "home": {
+          "name": "Legia Warszawa",
+          "logo": "https://media.api-sports.io/football/teams/339.png"
+        },
+        "away": {
+          "name": "Drita",
+          "logo": "https://media.api-sports.io/football/teams/14281.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:30:00Z",
+        "home": {
+          "name": "FC ST. Gallen",
+          "logo": "https://media.api-sports.io/football/teams/1011.png"
+        },
+        "away": {
+          "name": "AEK Athens FC",
+          "logo": "https://media.api-sports.io/football/teams/575.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:15:00Z",
+        "home": {
+          "name": "VfL Wolfsburg",
+          "logo": "https://media.api-sports.io/football/teams/161.png"
+        },
+        "away": {
+          "name": "Desna",
+          "logo": "https://media.api-sports.io/football/teams/3616.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:00:00Z",
+        "home": {
+          "name": "Shkendija",
+          "logo": "https://media.api-sports.io/football/teams/609.png"
+        },
+        "away": {
+          "name": "Tottenham",
+          "logo": "https://media.api-sports.io/football/teams/47.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:00:00Z",
+        "home": {
+          "name": "Granada CF",
+          "logo": "https://media.api-sports.io/football/teams/715.png"
+        },
+        "away": {
+          "name": "Lokomotivi Tbilisi",
+          "logo": "https://media.api-sports.io/football/teams/3500.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:00:00Z",
+        "home": {
+          "name": "Standard Liege",
+          "logo": "https://media.api-sports.io/football/teams/733.png"
+        },
+        "away": {
+          "name": "Vojvodina",
+          "logo": "https://media.api-sports.io/football/teams/702.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:00:00Z",
+        "home": {
+          "name": "Galatasaray",
+          "logo": "https://media.api-sports.io/football/teams/645.png"
+        },
+        "away": {
+          "name": "HNK Hajduk Split",
+          "logo": "https://media.api-sports.io/football/teams/608.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:00:00Z",
+        "home": {
+          "name": "FC Copenhagen",
+          "logo": "https://media.api-sports.io/football/teams/400.png"
+        },
+        "away": {
+          "name": "Piast Gliwice",
+          "logo": "https://media.api-sports.io/football/teams/349.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:00:00Z",
+        "home": {
+          "name": "Apoel Nicosia",
+          "logo": "https://media.api-sports.io/football/teams/2247.png"
+        },
+        "away": {
+          "name": "Zrinjski",
+          "logo": "https://media.api-sports.io/football/teams/588.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:00:00Z",
+        "home": {
+          "name": "Sheriff Tiraspol",
+          "logo": "https://media.api-sports.io/football/teams/568.png"
+        },
+        "away": {
+          "name": "Dundalk",
+          "logo": "https://media.api-sports.io/football/teams/584.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:00:00Z",
+        "home": {
+          "name": "FK Sarajevo",
+          "logo": "https://media.api-sports.io/football/teams/679.png"
+        },
+        "away": {
+          "name": "Buducnost Podgorica",
+          "logo": "https://media.api-sports.io/football/teams/579.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T18:00:00Z",
+        "home": {
+          "name": "KI Klaksvik",
+          "logo": "https://media.api-sports.io/football/teams/701.png"
+        },
+        "away": {
+          "name": "Dinamo Tbilisi",
+          "logo": "https://media.api-sports.io/football/teams/2262.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T17:30:00Z",
+        "home": {
+          "name": "FCSB",
+          "logo": "https://media.api-sports.io/football/teams/559.png"
+        },
+        "away": {
+          "name": "Slovan Liberec",
+          "logo": "https://media.api-sports.io/football/teams/782.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T17:30:00Z",
+        "home": {
+          "name": "Hapoel Beer Sheva",
+          "logo": "https://media.api-sports.io/football/teams/563.png"
+        },
+        "away": {
+          "name": "Motherwell",
+          "logo": "https://media.api-sports.io/football/teams/256.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T17:00:00Z",
+        "home": {
+          "name": "Malmo FF",
+          "logo": "https://media.api-sports.io/football/teams/375.png"
+        },
+        "away": {
+          "name": "NK Lokomotiva Zagreb",
+          "logo": "https://media.api-sports.io/football/teams/1017.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T17:00:00Z",
+        "home": {
+          "name": "Rosenborg",
+          "logo": "https://media.api-sports.io/football/teams/331.png"
+        },
+        "away": {
+          "name": "Alanyaspor",
+          "logo": "https://media.api-sports.io/football/teams/996.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T17:00:00Z",
+        "home": {
+          "name": "CSKA Sofia",
+          "logo": "https://media.api-sports.io/football/teams/853.png"
+        },
+        "away": {
+          "name": "B36 Torshavn",
+          "logo": "https://media.api-sports.io/football/teams/678.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T17:00:00Z",
+        "home": {
+          "name": "Djurgardens IF",
+          "logo": "https://media.api-sports.io/football/teams/364.png"
+        },
+        "away": {
+          "name": "CFR 1907 Cluj",
+          "logo": "https://media.api-sports.io/football/teams/2246.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T17:00:00Z",
+        "home": {
+          "name": "Floriana",
+          "logo": "https://media.api-sports.io/football/teams/4625.png"
+        },
+        "away": {
+          "name": "Flora Tallinn",
+          "logo": "https://media.api-sports.io/football/teams/687.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T17:00:00Z",
+        "home": {
+          "name": "Charleroi",
+          "logo": "https://media.api-sports.io/football/teams/736.png"
+        },
+        "away": {
+          "name": "FK Partizan",
+          "logo": "https://media.api-sports.io/football/teams/573.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T17:00:00Z",
+        "home": {
+          "name": "Besiktas",
+          "logo": "https://media.api-sports.io/football/teams/549.png"
+        },
+        "away": {
+          "name": "Rio Ave",
+          "logo": "https://media.api-sports.io/football/teams/226.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T17:00:00Z",
+        "home": {
+          "name": "Mura",
+          "logo": "https://media.api-sports.io/football/teams/4197.png"
+        },
+        "away": {
+          "name": "PSV Eindhoven",
+          "logo": "https://media.api-sports.io/football/teams/197.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T17:00:00Z",
+        "home": {
+          "name": "Riga",
+          "logo": "https://media.api-sports.io/football/teams/10124.png"
+        },
+        "away": {
+          "name": "Celtic",
+          "logo": "https://media.api-sports.io/football/teams/247.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T16:30:00Z",
+        "home": {
+          "name": "FC Rostov",
+          "logo": "https://media.api-sports.io/football/teams/779.png"
+        },
+        "away": {
+          "name": "Maccabi Haifa",
+          "logo": "https://media.api-sports.io/football/teams/4195.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T16:00:00Z",
+        "home": {
+          "name": "Videoton FC",
+          "logo": "https://media.api-sports.io/football/teams/610.png"
+        },
+        "away": {
+          "name": "Reims",
+          "logo": "https://media.api-sports.io/football/teams/93.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T16:00:00Z",
+        "home": {
+          "name": "Plzen",
+          "logo": "https://media.api-sports.io/football/teams/567.png"
+        },
+        "away": {
+          "name": "Sonderjyske",
+          "logo": "https://media.api-sports.io/football/teams/396.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T15:30:00Z",
+        "home": {
+          "name": "KuPS",
+          "logo": "https://media.api-sports.io/football/teams/1165.png"
+        },
+        "away": {
+          "name": "Suduva Marijampole",
+          "logo": "https://media.api-sports.io/football/teams/612.png"
+        },
+        "score": {}
+      },
+      {
+        "time": "2020-09-24T14:00:00Z",
+        "home": {
+          "name": "Ararat-Armenia",
+          "logo": "https://media.api-sports.io/football/teams/3683.png"
+        },
+        "away": {
+          "name": "Celje",
+          "logo": "https://media.api-sports.io/football/teams/4360.png"
+        },
+        "score": {}
+      }
+    ],
+    "histories": [
+      {
+        "time": "2020-09-23T16:00:00Z",
+        "home": {
+          "name": "Apollon Limassol",
+          "logo": "https://media.api-sports.io/football/teams/602.png"
+        },
+        "away": {
+          "name": "Lech Poznan",
+          "logo": "https://media.api-sports.io/football/teams/347.png"
+        },
+        "home_score": 0,
+        "away_score": 5,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-5"
+        }
+      },
+      {
+        "time": "2020-09-18T07:00:00Z",
+        "home": {
+          "name": "Riga",
+          "logo": "https://media.api-sports.io/football/teams/10124.png"
+        },
+        "away": {
+          "name": "Tre Fiori",
+          "logo": "https://media.api-sports.io/football/teams/2260.png"
+        },
+        "home_score": 1,
+        "away_score": 0,
+        "score": {
+          "h1": "0-0",
+          "ft": "1-0"
+        }
+      },
+      {
+        "time": "2020-09-17T19:05:00Z",
+        "home": {
+          "name": "Budapest Honved",
+          "logo": "https://media.api-sports.io/football/teams/576.png"
+        },
+        "away": {
+          "name": "Malmo FF",
+          "logo": "https://media.api-sports.io/football/teams/375.png"
+        },
+        "home_score": 0,
+        "away_score": 2,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-2"
+        }
+      },
+      {
+        "time": "2020-09-17T19:00:00Z",
+        "home": {
+          "name": "TSC Backa Topola",
+          "logo": "https://media.api-sports.io/football/teams/2646.png"
+        },
+        "away": {
+          "name": "FCSB",
+          "logo": "https://media.api-sports.io/football/teams/559.png"
+        },
+        "home_score": 6,
+        "away_score": 6,
+        "score": {
+          "h1": "2-1",
+          "ft": "4-4"
+        }
+      },
+      {
+        "time": "2020-09-17T18:45:00Z",
+        "home": {
+          "name": "Servette FC",
+          "logo": "https://media.api-sports.io/football/teams/2184.png"
+        },
+        "away": {
+          "name": "Reims",
+          "logo": "https://media.api-sports.io/football/teams/93.png"
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-1"
+        }
+      },
+      {
+        "time": "2020-09-17T18:45:00Z",
+        "home": {
+          "name": "NK Osijek",
+          "logo": "https://media.api-sports.io/football/teams/616.png"
+        },
+        "away": {
+          "name": "FC Basel 1893",
+          "logo": "https://media.api-sports.io/football/teams/551.png"
+        },
+        "home_score": 1,
+        "away_score": 2,
+        "score": {
+          "h1": "0-2",
+          "ft": "1-2"
+        }
+      },
+      {
+        "time": "2020-09-17T18:45:00Z",
+        "home": {
+          "name": "Linfield",
+          "logo": "https://media.api-sports.io/football/teams/583.png"
+        },
+        "away": {
+          "name": "Floriana",
+          "logo": "https://media.api-sports.io/football/teams/4625.png"
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-1"
+        }
+      },
+      {
+        "time": "2020-09-17T18:45:00Z",
+        "home": {
+          "name": "Dunajska Streda",
+          "logo": "https://media.api-sports.io/football/teams/2257.png"
+        },
+        "away": {
+          "name": "FK Jablonec",
+          "logo": "https://media.api-sports.io/football/teams/1122.png"
+        },
+        "home_score": 5,
+        "away_score": 3,
+        "score": {
+          "h1": "1-1",
+          "ft": "3-3"
+        }
+      },
+      {
+        "time": "2020-09-17T18:30:00Z",
+        "home": {
+          "name": "Coleraine FC",
+          "logo": "https://media.api-sports.io/football/teams/669.png"
+        },
+        "away": {
+          "name": "Motherwell",
+          "logo": "https://media.api-sports.io/football/teams/256.png"
+        },
+        "home_score": 2,
+        "away_score": 2,
+        "score": {
+          "h1": "0-2",
+          "ft": "2-2"
+        }
+      },
+      {
+        "time": "2020-09-17T18:30:00Z",
+        "home": {
+          "name": "Viking",
+          "logo": "https://media.api-sports.io/football/teams/759.png"
+        },
+        "away": {
+          "name": "Aberdeen",
+          "logo": "https://media.api-sports.io/football/teams/252.png"
+        },
+        "home_score": 0,
+        "away_score": 2,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-2"
+        }
+      },
+      {
+        "time": "2020-09-17T18:15:00Z",
+        "home": {
+          "name": "Mura",
+          "logo": "https://media.api-sports.io/football/teams/4197.png"
+        },
+        "away": {
+          "name": "Aarhus",
+          "logo": "https://media.api-sports.io/football/teams/406.png"
+        },
+        "home_score": 3,
+        "away_score": 0,
+        "score": {
+          "h1": "1-0",
+          "ft": "3-0"
+        }
+      },
+      {
+        "time": "2020-09-17T18:00:00Z",
+        "home": {
+          "name": "Shamrock Rovers",
+          "logo": "https://media.api-sports.io/football/teams/652.png"
+        },
+        "away": {
+          "name": "AC Milan",
+          "logo": "https://media.api-sports.io/football/teams/489.png"
+        },
+        "home_score": 0,
+        "away_score": 2,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-2"
+        }
+      },
+      {
+        "time": "2020-09-17T18:00:00Z",
+        "home": {
+          "name": "Piast Gliwice",
+          "logo": "https://media.api-sports.io/football/teams/349.png"
+        },
+        "away": {
+          "name": "TSV Hartberg",
+          "logo": "https://media.api-sports.io/football/teams/1072.png"
+        },
+        "home_score": 3,
+        "away_score": 2,
+        "score": {
+          "h1": "1-1",
+          "ft": "3-2"
+        }
+      },
+      {
+        "time": "2020-09-17T18:00:00Z",
+        "home": {
+          "name": "Standard Liege",
+          "logo": "https://media.api-sports.io/football/teams/733.png"
+        },
+        "away": {
+          "name": "Bala Town",
+          "logo": "https://media.api-sports.io/football/teams/352.png"
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "score": {
+          "h1": "2-0",
+          "ft": "2-0"
+        }
+      },
+      {
+        "time": "2020-09-17T18:00:00Z",
+        "home": {
+          "name": "Aris Thessalonikis",
+          "logo": "https://media.api-sports.io/football/teams/1123.png"
+        },
+        "away": {
+          "name": "Kolos Kovalivka",
+          "logo": "https://media.api-sports.io/football/teams/3627.png"
+        },
+        "home_score": 1,
+        "away_score": 2,
+        "score": {
+          "h1": "0-0",
+          "ft": "1-2"
+        }
+      },
+      {
+        "time": "2020-09-17T18:00:00Z",
+        "home": {
+          "name": "Borac Banja Luka",
+          "logo": "https://media.api-sports.io/football/teams/3364.png"
+        },
+        "away": {
+          "name": "Rio Ave",
+          "logo": "https://media.api-sports.io/football/teams/226.png"
+        },
+        "home_score": 0,
+        "away_score": 2,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-2"
+        }
+      },
+      {
+        "time": "2020-09-17T18:00:00Z",
+        "home": {
+          "name": "FK Kukesi",
+          "logo": "https://media.api-sports.io/football/teams/577.png"
+        },
+        "away": {
+          "name": "VfL Wolfsburg",
+          "logo": "https://media.api-sports.io/football/teams/161.png"
+        },
+        "home_score": 0,
+        "away_score": 4,
+        "score": {
+          "h1": "0-2",
+          "ft": "0-4"
+        }
+      },
+      {
+        "time": "2020-09-17T18:00:00Z",
+        "home": {
+          "name": "Sileks",
+          "logo": "https://media.api-sports.io/football/teams/4331.png"
+        },
+        "away": {
+          "name": "Drita",
+          "logo": "https://media.api-sports.io/football/teams/14281.png"
+        },
+        "home_score": 0,
+        "away_score": 2,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-2"
+        }
+      },
+      {
+        "time": "2020-09-17T17:30:00Z",
+        "home": {
+          "name": "Inter Club d'Escaldes",
+          "logo": "https://media.api-sports.io/football/teams/3342.png"
+        },
+        "away": {
+          "name": "Dundalk",
+          "logo": "https://media.api-sports.io/football/teams/584.png"
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-1"
+        }
+      },
+      {
+        "time": "2020-09-17T17:00:00Z",
+        "home": {
+          "name": "GAP Connah S Quay FC",
+          "logo": "https://media.api-sports.io/football/teams/357.png"
+        },
+        "away": {
+          "name": "Dinamo Tbilisi",
+          "logo": "https://media.api-sports.io/football/teams/2262.png"
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-1"
+        }
+      },
+      {
+        "time": "2020-09-17T17:00:00Z",
+        "home": {
+          "name": "Maccabi Haifa",
+          "logo": "https://media.api-sports.io/football/teams/4195.png"
+        },
+        "away": {
+          "name": "Kairat Almaty",
+          "logo": "https://media.api-sports.io/football/teams/664.png"
+        },
+        "home_score": 2,
+        "away_score": 1,
+        "score": {
+          "h1": "1-1",
+          "ft": "2-1"
+        }
+      },
+      {
+        "time": "2020-09-17T17:00:00Z",
+        "home": {
+          "name": "Sfîntul Gheorghe",
+          "logo": "https://media.api-sports.io/football/teams/4632.png"
+        },
+        "away": {
+          "name": "FK Partizan",
+          "logo": "https://media.api-sports.io/football/teams/573.png"
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-0"
+        }
+      },
+      {
+        "time": "2020-09-17T17:00:00Z",
+        "home": {
+          "name": "Lokomotivi Tbilisi",
+          "logo": "https://media.api-sports.io/football/teams/3500.png"
+        },
+        "away": {
+          "name": "Dinamo Moscow",
+          "logo": "https://media.api-sports.io/football/teams/1088.png"
+        },
+        "home_score": 2,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "2-1"
+        }
+      },
+      {
+        "time": "2020-09-17T17:00:00Z",
+        "home": {
+          "name": "CSKA Sofia",
+          "logo": "https://media.api-sports.io/football/teams/853.png"
+        },
+        "away": {
+          "name": "Bate Borisov",
+          "logo": "https://media.api-sports.io/football/teams/388.png"
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "score": {
+          "h1": "1-0",
+          "ft": "2-0"
+        }
+      },
+      {
+        "time": "2020-09-17T17:00:00Z",
+        "home": {
+          "name": "Laci",
+          "logo": "https://media.api-sports.io/football/teams/2256.png"
+        },
+        "away": {
+          "name": "Hapoel Beer Sheva",
+          "logo": "https://media.api-sports.io/football/teams/563.png"
+        },
+        "home_score": 1,
+        "away_score": 2,
+        "score": {
+          "h1": "0-0",
+          "ft": "1-2"
+        }
+      },
+      {
+        "time": "2020-09-17T17:00:00Z",
+        "home": {
+          "name": "Hibernians",
+          "logo": "https://media.api-sports.io/football/teams/3884.png"
+        },
+        "away": {
+          "name": "Videoton FC",
+          "logo": "https://media.api-sports.io/football/teams/610.png"
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-1"
+        }
+      },
+      {
+        "time": "2020-09-17T17:00:00Z",
+        "home": {
+          "name": "OFI",
+          "logo": "https://media.api-sports.io/football/teams/1124.png"
+        },
+        "away": {
+          "name": "Apollon Limassol",
+          "logo": "https://media.api-sports.io/football/teams/602.png"
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-1"
+        }
+      },
+      {
+        "time": "2020-09-17T17:00:00Z",
+        "home": {
+          "name": "Djurgardens IF",
+          "logo": "https://media.api-sports.io/football/teams/364.png"
+        },
+        "away": {
+          "name": "Europa Fc",
+          "logo": "https://media.api-sports.io/football/teams/593.png"
+        },
+        "home_score": 2,
+        "away_score": 1,
+        "score": {
+          "h1": "1-0",
+          "ft": "2-1"
+        }
+      },
+      {
+        "time": "2020-09-17T16:30:00Z",
+        "home": {
+          "name": "Olimpija Ljubljana",
+          "logo": "https://media.api-sports.io/football/teams/677.png"
+        },
+        "away": {
+          "name": "Zrinjski",
+          "logo": "https://media.api-sports.io/football/teams/588.png"
+        },
+        "home_score": 2,
+        "away_score": 3,
+        "score": {
+          "h1": "1-0",
+          "ft": "2-2"
+        }
+      },
+      {
+        "time": "2020-09-17T16:30:00Z",
+        "home": {
+          "name": "Flora Tallinn",
+          "logo": "https://media.api-sports.io/football/teams/687.png"
+        },
+        "away": {
+          "name": "KR Reykjavik",
+          "logo": "https://media.api-sports.io/football/teams/271.png"
+        },
+        "home_score": 2,
+        "away_score": 1,
+        "score": {
+          "h1": "2-0",
+          "ft": "2-1"
+        }
+      },
+      {
+        "time": "2020-09-17T16:00:00Z",
+        "home": {
+          "name": "Lokomotiv Plovdiv",
+          "logo": "https://media.api-sports.io/football/teams/858.png"
+        },
+        "away": {
+          "name": "Tottenham",
+          "logo": "https://media.api-sports.io/football/teams/47.png"
+        },
+        "home_score": 1,
+        "away_score": 2,
+        "score": {
+          "h1": "0-0",
+          "ft": "1-2"
+        }
+      },
+      {
+        "time": "2020-09-17T16:00:00Z",
+        "home": {
+          "name": "Neftchi Baku",
+          "logo": "https://media.api-sports.io/football/teams/2270.png"
+        },
+        "away": {
+          "name": "Galatasaray",
+          "logo": "https://media.api-sports.io/football/teams/645.png"
+        },
+        "home_score": 1,
+        "away_score": 3,
+        "score": {
+          "h1": "0-1",
+          "ft": "1-3"
+        }
+      },
+      {
+        "time": "2020-09-17T16:00:00Z",
+        "home": {
+          "name": "IFK Goteborg",
+          "logo": "https://media.api-sports.io/football/teams/366.png"
+        },
+        "away": {
+          "name": "FC Copenhagen",
+          "logo": "https://media.api-sports.io/football/teams/400.png"
+        },
+        "home_score": 1,
+        "away_score": 2,
+        "score": {
+          "h1": "0-0",
+          "ft": "1-2"
+        }
+      },
+      {
+        "time": "2020-09-17T16:00:00Z",
+        "home": {
+          "name": "FK Trakai",
+          "logo": "https://media.api-sports.io/football/teams/638.png"
+        },
+        "away": {
+          "name": "Slovan Liberec",
+          "logo": "https://media.api-sports.io/football/teams/782.png"
+        },
+        "home_score": 1,
+        "away_score": 5,
+        "score": {
+          "h1": "0-2",
+          "ft": "1-5"
+        }
+      },
+      {
+        "time": "2020-09-17T16:00:00Z",
+        "home": {
+          "name": "Bodo/Glimt",
+          "logo": "https://media.api-sports.io/football/teams/327.png"
+        },
+        "away": {
+          "name": "FK Zalgiris Vilnius",
+          "logo": "https://media.api-sports.io/football/teams/586.png"
+        },
+        "home_score": 3,
+        "away_score": 1,
+        "score": {
+          "h1": "2-1",
+          "ft": "3-1"
+        }
+      },
+      {
+        "time": "2020-09-17T15:45:00Z",
+        "home": {
+          "name": "FC Botosani",
+          "logo": "https://media.api-sports.io/football/teams/2581.png"
+        },
+        "away": {
+          "name": "Shkendija",
+          "logo": "https://media.api-sports.io/football/teams/609.png"
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-1"
+        }
+      },
+      {
+        "time": "2020-09-17T15:30:00Z",
+        "home": {
+          "name": "KuPS",
+          "logo": "https://media.api-sports.io/football/teams/1165.png"
+        },
+        "away": {
+          "name": "Slovan Bratislava",
+          "logo": "https://media.api-sports.io/football/teams/656.png"
+        },
+        "home_score": 1,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-0"
+        }
+      },
+      {
+        "time": "2020-09-17T15:00:00Z",
+        "home": {
+          "name": "Lincoln Red Imps FC",
+          "logo": "https://media.api-sports.io/football/teams/667.png"
+        },
+        "away": {
+          "name": "Rangers",
+          "logo": "https://media.api-sports.io/football/teams/257.png"
+        },
+        "home_score": 0,
+        "away_score": 5,
+        "score": {
+          "h1": "0-2",
+          "ft": "0-5"
+        }
+      },
+      {
+        "time": "2020-09-17T14:00:00Z",
+        "home": {
+          "name": "FC Astana",
+          "logo": "https://media.api-sports.io/football/teams/562.png"
+        },
+        "away": {
+          "name": "Buducnost Podgorica",
+          "logo": "https://media.api-sports.io/football/teams/579.png"
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-1"
+        }
+      },
+      {
+        "time": "2020-09-17T14:00:00Z",
+        "home": {
+          "name": "Teuta Durrës",
+          "logo": "https://media.api-sports.io/football/teams/3320.png"
+        },
+        "away": {
+          "name": "Granada CF",
+          "logo": "https://media.api-sports.io/football/teams/715.png"
+        },
+        "home_score": 0,
+        "away_score": 4,
+        "score": {
+          "h1": "0-3",
+          "ft": "0-4"
+        }
+      },
+      {
+        "time": "2020-09-17T14:00:00Z",
+        "home": {
+          "name": "Ararat-Armenia",
+          "logo": "https://media.api-sports.io/football/teams/3683.png"
+        },
+        "away": {
+          "name": "Fola Esch",
+          "logo": "https://media.api-sports.io/football/teams/626.png"
+        },
+        "home_score": 4,
+        "away_score": 3,
+        "score": {
+          "h1": "1-1",
+          "ft": "3-3"
+        }
+      },
+      {
+        "time": "2020-09-17T13:30:00Z",
+        "home": {
+          "name": "Renova",
+          "logo": "https://media.api-sports.io/football/teams/4330.png"
+        },
+        "away": {
+          "name": "HNK Hajduk Split",
+          "logo": "https://media.api-sports.io/football/teams/608.png"
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-1"
+        }
+      },
+      {
+        "time": "2020-09-17T12:15:00Z",
+        "home": {
+          "name": "FK Ventspils",
+          "logo": "https://media.api-sports.io/football/teams/707.png"
+        },
+        "away": {
+          "name": "Rosenborg",
+          "logo": "https://media.api-sports.io/football/teams/331.png"
+        },
+        "home_score": 1,
+        "away_score": 5,
+        "score": {
+          "h1": "1-3",
+          "ft": "1-5"
+        }
+      },
+      {
+        "time": "2020-09-17T12:00:00Z",
+        "home": {
+          "name": "Kaisar",
+          "logo": "https://media.api-sports.io/football/teams/4562.png"
+        },
+        "away": {
+          "name": "Apoel Nicosia",
+          "logo": "https://media.api-sports.io/football/teams/2247.png"
+        },
+        "home_score": 1,
+        "away_score": 4,
+        "score": {
+          "h1": "1-2",
+          "ft": "1-4"
+        }
+      },
+      {
+        "time": "2020-09-16T18:00:00Z",
+        "home": {
+          "name": "B36 Torshavn",
+          "logo": "https://media.api-sports.io/football/teams/678.png"
+        },
+        "away": {
+          "name": "The New Saints",
+          "logo": "https://media.api-sports.io/football/teams/354.png"
+        },
+        "home_score": 2,
+        "away_score": 2,
+        "score": {
+          "h1": "0-0",
+          "ft": "1-1"
+        }
+      },
+      {
+        "time": "2020-09-16T17:00:00Z",
+        "home": {
+          "name": "Hammarby FF",
+          "logo": "https://media.api-sports.io/football/teams/363.png"
+        },
+        "away": {
+          "name": "Lech Poznan",
+          "logo": "https://media.api-sports.io/football/teams/347.png"
+        },
+        "home_score": 0,
+        "away_score": 3,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-3"
+        }
+      },
+      {
+        "time": "2020-09-16T16:30:00Z",
+        "home": {
+          "name": "Progres Niederkorn",
+          "logo": "https://media.api-sports.io/football/teams/658.png"
+        },
+        "away": {
+          "name": "Willem II",
+          "logo": "https://media.api-sports.io/football/teams/195.png"
+        },
+        "home_score": 0,
+        "away_score": 5,
+        "score": {
+          "h1": "0-3",
+          "ft": "0-5"
+        }
+      },
+      {
+        "time": "2020-09-10T17:30:00Z",
+        "home": {
+          "name": "Kalju Nomme",
+          "logo": "https://media.api-sports.io/football/teams/662.png"
+        },
+        "away": {
+          "name": "Mura",
+          "logo": "https://media.api-sports.io/football/teams/4197.png"
+        },
+        "home_score": 0,
+        "away_score": 4,
+        "score": {
+          "h1": "0-4",
+          "ft": "0-4"
+        }
+      },
+      {
+        "time": "2020-09-09T17:00:00Z",
+        "home": {
+          "name": "Maccabi Haifa",
+          "logo": "https://media.api-sports.io/football/teams/4195.png"
+        },
+        "away": {
+          "name": "Zeljeznicar Sarajevo",
+          "logo": "https://media.api-sports.io/football/teams/654.png"
+        },
+        "home_score": 3,
+        "away_score": 1,
+        "score": {
+          "h1": "1-1",
+          "ft": "3-1"
+        }
+      },
+      {
+        "time": "2020-08-27T19:00:00Z",
+        "home": {
+          "name": "FK Partizan",
+          "logo": "https://media.api-sports.io/football/teams/573.png"
+        },
+        "away": {
+          "name": "Rīgas FS",
+          "logo": "https://media.api-sports.io/football/teams/4160.png"
+        },
+        "home_score": 1,
+        "away_score": 0,
+        "score": {
+          "h1": "0-0",
+          "ft": "1-0"
+        }
+      },
+      {
+        "time": "2020-08-27T19:00:00Z",
+        "home": {
+          "name": "Budapest Honved",
+          "logo": "https://media.api-sports.io/football/teams/576.png"
+        },
+        "away": {
+          "name": "Inter Turku",
+          "logo": "https://media.api-sports.io/football/teams/1164.png"
+        },
+        "home_score": 2,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "1-1"
+        }
+      },
+      {
+        "time": "2020-08-27T19:00:00Z",
+        "home": {
+          "name": "Shamrock Rovers",
+          "logo": "https://media.api-sports.io/football/teams/652.png"
+        },
+        "away": {
+          "name": "Ilves Tampere",
+          "logo": "https://media.api-sports.io/football/teams/1163.png"
+        },
+        "home_score": 2,
+        "away_score": 2,
+        "score": {
+          "h1": "1-1",
+          "ft": "2-2"
+        }
+      },
+      {
+        "time": "2020-08-27T19:00:00Z",
+        "home": {
+          "name": "Lech Poznan",
+          "logo": "https://media.api-sports.io/football/teams/347.png"
+        },
+        "away": {
+          "name": "Valmiera / BSS",
+          "logo": "https://media.api-sports.io/football/teams/4153.png"
+        },
+        "home_score": 3,
+        "away_score": 0,
+        "score": {
+          "h1": "0-0",
+          "ft": "3-0"
+        }
+      },
+      {
+        "time": "2020-08-27T18:45:00Z",
+        "home": {
+          "name": "Maribor",
+          "logo": "https://media.api-sports.io/football/teams/552.png"
+        },
+        "away": {
+          "name": "Coleraine FC",
+          "logo": "https://media.api-sports.io/football/teams/669.png"
+        },
+        "home_score": 1,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "1-1"
+        }
+      },
+      {
+        "time": "2020-08-27T18:45:00Z",
+        "home": {
+          "name": "Aberdeen",
+          "logo": "https://media.api-sports.io/football/teams/252.png"
+        },
+        "away": {
+          "name": "NSI Runavik",
+          "logo": "https://media.api-sports.io/football/teams/682.png"
+        },
+        "home_score": 6,
+        "away_score": 0,
+        "score": {
+          "h1": "2-0",
+          "ft": "6-0"
+        }
+      },
+      {
+        "time": "2020-08-27T18:45:00Z",
+        "home": {
+          "name": "Motherwell",
+          "logo": "https://media.api-sports.io/football/teams/256.png"
+        },
+        "away": {
+          "name": "Glentoran",
+          "logo": "https://media.api-sports.io/football/teams/5352.png"
+        },
+        "home_score": 5,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "5-1"
+        }
+      },
+      {
+        "time": "2020-08-27T18:30:00Z",
+        "home": {
+          "name": "FCSB",
+          "logo": "https://media.api-sports.io/football/teams/559.png"
+        },
+        "away": {
+          "name": "Shirak",
+          "logo": "https://media.api-sports.io/football/teams/3686.png"
+        },
+        "home_score": 3,
+        "away_score": 0,
+        "score": {
+          "h1": "1-0",
+          "ft": "3-0"
+        }
+      },
+      {
+        "time": "2020-08-27T18:15:00Z",
+        "home": {
+          "name": "Servette FC",
+          "logo": "https://media.api-sports.io/football/teams/2184.png"
+        },
+        "away": {
+          "name": "Ružomberok",
+          "logo": "https://media.api-sports.io/football/teams/3549.png"
+        },
+        "home_score": 3,
+        "away_score": 0,
+        "score": {
+          "h1": "0-0",
+          "ft": "3-0"
+        }
+      },
+      {
+        "time": "2020-08-27T18:00:00Z",
+        "home": {
+          "name": "B36 Torshavn",
+          "logo": "https://media.api-sports.io/football/teams/678.png"
+        },
+        "away": {
+          "name": "FC Levadia Tallinn",
+          "logo": "https://media.api-sports.io/football/teams/2273.png"
+        },
+        "home_score": 4,
+        "away_score": 3,
+        "score": {
+          "h1": "0-0",
+          "ft": "2-2"
+        }
+      },
+      {
+        "time": "2020-08-27T18:00:00Z",
+        "home": {
+          "name": "Iskra",
+          "logo": "https://media.api-sports.io/football/teams/3738.png"
+        },
+        "away": {
+          "name": "Lokomotiv Plovdiv",
+          "logo": "https://media.api-sports.io/football/teams/858.png"
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-1"
+        }
+      },
+      {
+        "time": "2020-08-27T18:00:00Z",
+        "home": {
+          "name": "Zrinjski",
+          "logo": "https://media.api-sports.io/football/teams/588.png"
+        },
+        "away": {
+          "name": "FC Differdange 03",
+          "logo": "https://media.api-sports.io/football/teams/684.png"
+        },
+        "home_score": 3,
+        "away_score": 0,
+        "score": {
+          "h1": "2-0",
+          "ft": "3-0"
+        }
+      },
+      {
+        "time": "2020-08-27T18:00:00Z",
+        "home": {
+          "name": "Valletta FC",
+          "logo": "https://media.api-sports.io/football/teams/659.png"
+        },
+        "away": {
+          "name": "Bala Town",
+          "logo": "https://media.api-sports.io/football/teams/352.png"
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-1"
+        }
+      },
+      {
+        "time": "2020-08-27T18:00:00Z",
+        "home": {
+          "name": "FK Kukesi",
+          "logo": "https://media.api-sports.io/football/teams/577.png"
+        },
+        "away": {
+          "name": "Slavia Sofia",
+          "logo": "https://media.api-sports.io/football/teams/854.png"
+        },
+        "home_score": 2,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "2-1"
+        }
+      },
+      {
+        "time": "2020-08-27T18:00:00Z",
+        "home": {
+          "name": "Petrocub",
+          "logo": "https://media.api-sports.io/football/teams/2271.png"
+        },
+        "away": {
+          "name": "TSC Backa Topola",
+          "logo": "https://media.api-sports.io/football/teams/2646.png"
+        },
+        "home_score": 0,
+        "away_score": 2,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-2"
+        }
+      },
+      {
+        "time": "2020-08-27T17:45:00Z",
+        "home": {
+          "name": "Hapoel Beer Sheva",
+          "logo": "https://media.api-sports.io/football/teams/563.png"
+        },
+        "away": {
+          "name": "Dinamo Batumi",
+          "logo": "https://media.api-sports.io/football/teams/705.png"
+        },
+        "home_score": 3,
+        "away_score": 0,
+        "score": {
+          "h1": "2-0",
+          "ft": "3-0"
+        }
+      },
+      {
+        "time": "2020-08-27T17:30:00Z",
+        "home": {
+          "name": "The New Saints",
+          "logo": "https://media.api-sports.io/football/teams/354.png"
+        },
+        "away": {
+          "name": "Žilina",
+          "logo": "https://media.api-sports.io/football/teams/3554.png"
+        },
+        "home_score": 3,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "1-1"
+        }
+      },
+      {
+        "time": "2020-08-27T17:30:00Z",
+        "home": {
+          "name": "Shakhter Soligorsk",
+          "logo": "https://media.api-sports.io/football/teams/392.png"
+        },
+        "away": {
+          "name": "Sfîntul Gheorghe",
+          "logo": "https://media.api-sports.io/football/teams/4632.png"
+        },
+        "home_score": 0,
+        "away_score": 0,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-0"
+        }
+      },
+      {
+        "time": "2020-08-27T17:15:00Z",
+        "home": {
+          "name": "FH hafnarfjordur",
+          "logo": "https://media.api-sports.io/football/teams/270.png"
+        },
+        "away": {
+          "name": "Dunajska Streda",
+          "logo": "https://media.api-sports.io/football/teams/2257.png"
+        },
+        "home_score": 0,
+        "away_score": 2,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-2"
+        }
+      },
+      {
+        "time": "2020-08-27T17:00:00Z",
+        "home": {
+          "name": "Gjilani",
+          "logo": "https://media.api-sports.io/football/teams/12772.png"
+        },
+        "away": {
+          "name": "Apoel Nicosia",
+          "logo": "https://media.api-sports.io/football/teams/2247.png"
+        },
+        "home_score": 0,
+        "away_score": 2,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-0"
+        }
+      },
+      {
+        "time": "2020-08-27T17:00:00Z",
+        "home": {
+          "name": "Rosenborg",
+          "logo": "https://media.api-sports.io/football/teams/331.png"
+        },
+        "away": {
+          "name": "Breidablik",
+          "logo": "https://media.api-sports.io/football/teams/276.png"
+        },
+        "home_score": 4,
+        "away_score": 2,
+        "score": {
+          "h1": "4-0",
+          "ft": "4-2"
+        }
+      },
+      {
+        "time": "2020-08-27T17:00:00Z",
+        "home": {
+          "name": "Hammarby FF",
+          "logo": "https://media.api-sports.io/football/teams/363.png"
+        },
+        "away": {
+          "name": "Puskas Academy",
+          "logo": "https://media.api-sports.io/football/teams/2391.png"
+        },
+        "home_score": 3,
+        "away_score": 0,
+        "score": {
+          "h1": "2-0",
+          "ft": "3-0"
+        }
+      },
+      {
+        "time": "2020-08-27T17:00:00Z",
+        "home": {
+          "name": "Aarhus",
+          "logo": "https://media.api-sports.io/football/teams/406.png"
+        },
+        "away": {
+          "name": "Honka",
+          "logo": "https://media.api-sports.io/football/teams/1169.png"
+        },
+        "home_score": 5,
+        "away_score": 2,
+        "score": {
+          "h1": "3-1",
+          "ft": "5-2"
+        }
+      },
+      {
+        "time": "2020-08-27T17:00:00Z",
+        "home": {
+          "name": "FK Zalgiris Vilnius",
+          "logo": "https://media.api-sports.io/football/teams/586.png"
+        },
+        "away": {
+          "name": "Paide",
+          "logo": "https://media.api-sports.io/football/teams/3528.png"
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "score": {
+          "h1": "2-0",
+          "ft": "2-0"
+        }
+      },
+      {
+        "time": "2020-08-27T17:00:00Z",
+        "home": {
+          "name": "Malmo FF",
+          "logo": "https://media.api-sports.io/football/teams/375.png"
+        },
+        "away": {
+          "name": "Cracovia Krakow",
+          "logo": "https://media.api-sports.io/football/teams/350.png"
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "score": {
+          "h1": "2-0",
+          "ft": "2-0"
+        }
+      },
+      {
+        "time": "2020-08-27T17:00:00Z",
+        "home": {
+          "name": "FC Vaduz",
+          "logo": "https://media.api-sports.io/football/teams/660.png"
+        },
+        "away": {
+          "name": "Hibernians",
+          "logo": "https://media.api-sports.io/football/teams/3884.png"
+        },
+        "home_score": 0,
+        "away_score": 2,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-2"
+        }
+      },
+      {
+        "time": "2020-08-27T17:00:00Z",
+        "home": {
+          "name": "Keshla FC",
+          "logo": "https://media.api-sports.io/football/teams/666.png"
+        },
+        "away": {
+          "name": "Laci",
+          "logo": "https://media.api-sports.io/football/teams/2256.png"
+        },
+        "home_score": 0,
+        "away_score": 0,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-0"
+        }
+      },
+      {
+        "time": "2020-08-27T17:00:00Z",
+        "home": {
+          "name": "CSKA Sofia",
+          "logo": "https://media.api-sports.io/football/teams/853.png"
+        },
+        "away": {
+          "name": "Sirens",
+          "logo": "https://media.api-sports.io/football/teams/4619.png"
+        },
+        "home_score": 2,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "2-1"
+        }
+      },
+      {
+        "time": "2020-08-27T17:00:00Z",
+        "home": {
+          "name": "Lokomotivi Tbilisi",
+          "logo": "https://media.api-sports.io/football/teams/3500.png"
+        },
+        "away": {
+          "name": "CS Universitatea Craiova",
+          "logo": "https://media.api-sports.io/football/teams/632.png"
+        },
+        "home_score": 2,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "2-1"
+        }
+      },
+      {
+        "time": "2020-08-27T16:30:00Z",
+        "home": {
+          "name": "Olimpija Ljubljana",
+          "logo": "https://media.api-sports.io/football/teams/677.png"
+        },
+        "away": {
+          "name": "Vikingur Reykjavik",
+          "logo": "https://media.api-sports.io/football/teams/278.png"
+        },
+        "home_score": 2,
+        "away_score": 1,
+        "score": {
+          "h1": "0-1",
+          "ft": "1-1"
+        }
+      },
+      {
+        "time": "2020-08-27T16:30:00Z",
+        "home": {
+          "name": "Videoton FC",
+          "logo": "https://media.api-sports.io/football/teams/610.png"
+        },
+        "away": {
+          "name": "Bohemians",
+          "logo": "https://media.api-sports.io/football/teams/3840.png"
+        },
+        "home_score": 1,
+        "away_score": 1,
+        "score": {
+          "h1": "1-1",
+          "ft": "1-1"
+        }
+      },
+      {
+        "time": "2020-08-27T16:00:00Z",
+        "home": {
+          "name": "Neftchi Baku",
+          "logo": "https://media.api-sports.io/football/teams/2270.png"
+        },
+        "away": {
+          "name": "Shkupi 1927",
+          "logo": "https://media.api-sports.io/football/teams/2265.png"
+        },
+        "home_score": 2,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "2-1"
+        }
+      },
+      {
+        "time": "2020-08-27T16:00:00Z",
+        "home": {
+          "name": "Apollon Limassol",
+          "logo": "https://media.api-sports.io/football/teams/602.png"
+        },
+        "away": {
+          "name": "Saburtalo",
+          "logo": "https://media.api-sports.io/football/teams/3502.png"
+        },
+        "home_score": 5,
+        "away_score": 1,
+        "score": {
+          "h1": "2-0",
+          "ft": "5-1"
+        }
+      },
+      {
+        "time": "2020-08-27T16:00:00Z",
+        "home": {
+          "name": "Bodo/Glimt",
+          "logo": "https://media.api-sports.io/football/teams/327.png"
+        },
+        "away": {
+          "name": "Kauno Žalgiris",
+          "logo": "https://media.api-sports.io/football/teams/3872.png"
+        },
+        "home_score": 6,
+        "away_score": 1,
+        "score": {
+          "h1": "2-0",
+          "ft": "6-1"
+        }
+      },
+      {
+        "time": "2020-08-27T16:00:00Z",
+        "home": {
+          "name": "Alashkert",
+          "logo": "https://media.api-sports.io/football/teams/582.png"
+        },
+        "away": {
+          "name": "Renova",
+          "logo": "https://media.api-sports.io/football/teams/4330.png"
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-1"
+        }
+      },
+      {
+        "time": "2020-08-27T16:00:00Z",
+        "home": {
+          "name": "Sumqayıt",
+          "logo": "https://media.api-sports.io/football/teams/5503.png"
+        },
+        "away": {
+          "name": "Shkendija",
+          "logo": "https://media.api-sports.io/football/teams/609.png"
+        },
+        "home_score": 0,
+        "away_score": 2,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-2"
+        }
+      },
+      {
+        "time": "2020-08-27T15:30:00Z",
+        "home": {
+          "name": "Lincoln Red Imps FC",
+          "logo": "https://media.api-sports.io/football/teams/667.png"
+        },
+        "away": {
+          "name": "Union Titus Petange",
+          "logo": "https://media.api-sports.io/football/teams/2032.png"
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "score": {
+          "h1": "1-0",
+          "ft": "2-0"
+        }
+      },
+      {
+        "time": "2020-08-27T15:00:00Z",
+        "home": {
+          "name": "Dinamo Minsk",
+          "logo": "https://media.api-sports.io/football/teams/394.png"
+        },
+        "away": {
+          "name": "Piast Gliwice",
+          "logo": "https://media.api-sports.io/football/teams/349.png"
+        },
+        "home_score": 0,
+        "away_score": 2,
+        "score": {
+          "h1": "0-1",
+          "ft": "0-2"
+        }
+      },
+      {
+        "time": "2020-08-27T14:30:00Z",
+        "home": {
+          "name": "Teuta Durrës",
+          "logo": "https://media.api-sports.io/football/teams/3320.png"
+        },
+        "away": {
+          "name": "Beitar Jerusalem",
+          "logo": "https://media.api-sports.io/football/teams/657.png"
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "score": {
+          "h1": "1-0",
+          "ft": "2-0"
+        }
+      },
+      {
+        "time": "2020-08-27T14:30:00Z",
+        "home": {
+          "name": "Borac Banja Luka",
+          "logo": "https://media.api-sports.io/football/teams/3364.png"
+        },
+        "away": {
+          "name": "Sutjeska",
+          "logo": "https://media.api-sports.io/football/teams/673.png"
+        },
+        "home_score": 1,
+        "away_score": 0,
+        "score": {
+          "h1": "1-0",
+          "ft": "1-0"
+        }
+      },
+      {
+        "time": "2020-08-27T14:00:00Z",
+        "home": {
+          "name": "FK Ventspils",
+          "logo": "https://media.api-sports.io/football/teams/707.png"
+        },
+        "away": {
+          "name": "Dinamo-Auto",
+          "logo": "https://media.api-sports.io/football/teams/4631.png"
+        },
+        "home_score": 2,
+        "away_score": 1,
+        "score": {
+          "h1": "1-1",
+          "ft": "2-1"
+        }
+      },
+      {
+        "time": "2020-08-27T14:00:00Z",
+        "home": {
+          "name": "Ordabasy",
+          "logo": "https://media.api-sports.io/football/teams/692.png"
+        },
+        "away": {
+          "name": "FC Botosani",
+          "logo": "https://media.api-sports.io/football/teams/2581.png"
+        },
+        "home_score": 1,
+        "away_score": 2,
+        "score": {
+          "h1": "1-2",
+          "ft": "1-2"
+        }
+      },
+      {
+        "time": "2020-08-27T14:00:00Z",
+        "home": {
+          "name": "Kairat Almaty",
+          "logo": "https://media.api-sports.io/football/teams/664.png"
+        },
+        "away": {
+          "name": "Artsakh",
+          "logo": "https://media.api-sports.io/football/teams/3684.png"
+        },
+        "home_score": 4,
+        "away_score": 1,
+        "score": {
+          "h1": "2-1",
+          "ft": "4-1"
+        }
+      },
+      {
+        "time": "2020-08-26T16:30:00Z",
+        "home": {
+          "name": "Progres Niederkorn",
+          "logo": "https://media.api-sports.io/football/teams/658.png"
+        },
+        "away": {
+          "name": "Zeta",
+          "logo": "https://media.api-sports.io/football/teams/676.png"
+        },
+        "home_score": 3,
+        "away_score": 0,
+        "score": {
+          "h1": "1-0",
+          "ft": "3-0"
+        }
+      },
+      {
+        "time": "2020-08-25T16:00:00Z",
+        "home": {
+          "name": "FK Trakai",
+          "logo": "https://media.api-sports.io/football/teams/638.png"
+        },
+        "away": {
+          "name": "Derry City",
+          "logo": "https://media.api-sports.io/football/teams/670.png"
+        },
+        "home_score": 3,
+        "away_score": 2,
+        "score": {
+          "h1": "1-1",
+          "ft": "2-2"
+        }
+      },
+      {
+        "time": "2020-08-22T16:00:00Z",
+        "home": {
+          "name": "Lincoln Red Imps FC",
+          "logo": "https://media.api-sports.io/football/teams/667.png"
+        },
+        "away": {
+          "name": "Prishtina",
+          "logo": "https://media.api-sports.io/football/teams/680.png"
+        },
+        "home_score": 3,
+        "away_score": 0,
+        "score": {
+          "ft": "3-0"
+        }
+      },
+      {
+        "time": "2020-08-21T18:00:00Z",
+        "home": {
+          "name": "Tre Penne",
+          "logo": "https://media.api-sports.io/football/teams/700.png"
+        },
+        "away": {
+          "name": "Gjilani",
+          "logo": "https://media.api-sports.io/football/teams/12772.png"
+        },
+        "home_score": 1,
+        "away_score": 3,
+        "score": {
+          "h1": "1-1",
+          "ft": "1-3"
+        }
+      },
+      {
+        "time": "2020-08-20T18:30:00Z",
+        "home": {
+          "name": "Coleraine FC",
+          "logo": "https://media.api-sports.io/football/teams/669.png"
+        },
+        "away": {
+          "name": "La Fiorita",
+          "logo": "https://media.api-sports.io/football/teams/2249.png"
+        },
+        "home_score": 1,
+        "away_score": 0,
+        "score": {
+          "h1": "0-0",
+          "ft": "1-0"
+        }
+      },
+      {
+        "time": "2020-08-20T18:00:00Z",
+        "home": {
+          "name": "Glentoran",
+          "logo": "https://media.api-sports.io/football/teams/5352.png"
+        },
+        "away": {
+          "name": "HB",
+          "logo": "https://media.api-sports.io/football/teams/4133.png"
+        },
+        "home_score": 1,
+        "away_score": 0,
+        "score": {
+          "h1": "1-0",
+          "ft": "1-0"
+        }
+      },
+      {
+        "time": "2020-08-20T17:30:00Z",
+        "home": {
+          "name": "FC Santa Coloma",
+          "logo": "https://media.api-sports.io/football/teams/591.png"
+        },
+        "away": {
+          "name": "Iskra",
+          "logo": "https://media.api-sports.io/football/teams/3738.png"
+        },
+        "home_score": 0,
+        "away_score": 0,
+        "score": {
+          "h1": "0-0",
+          "ft": "0-0"
+        }
+      },
+      {
+        "time": "2020-08-20T17:00:00Z",
+        "home": {
+          "name": "NSI Runavik",
+          "logo": "https://media.api-sports.io/football/teams/682.png"
+        },
+        "away": {
+          "name": "Barry Town",
+          "logo": "https://media.api-sports.io/football/teams/361.png"
+        },
+        "home_score": 5,
+        "away_score": 1,
+        "score": {
+          "h1": "0-0",
+          "ft": "5-1"
+        }
+      },
+      {
+        "time": "2020-08-20T15:30:00Z",
+        "home": {
+          "name": "St Joseph S Fc",
+          "logo": "https://media.api-sports.io/football/teams/698.png"
+        },
+        "away": {
+          "name": "B36 Torshavn",
+          "logo": "https://media.api-sports.io/football/teams/678.png"
+        },
+        "home_score": 1,
+        "away_score": 2,
+        "score": {
+          "h1": "1-2",
+          "ft": "1-2"
+        }
+      },
+      {
+        "time": "2020-08-18T18:00:00Z",
+        "home": {
+          "name": "UE Engordany",
+          "logo": "https://media.api-sports.io/football/teams/2268.png"
+        },
+        "away": {
+          "name": "Zeta",
+          "logo": "https://media.api-sports.io/football/teams/676.png"
+        },
+        "home_score": 1,
+        "away_score": 3,
+        "score": {
+          "h1": "0-1",
+          "ft": "1-3"
+        }
+      }
+    ],
+    "history_groups": [
+      {
+        "group": "Tháng 09, 2020",
+        "matches": [
+          {
+            "time": "2020-09-23T16:00:00Z",
+            "home": {
+              "name": "Apollon Limassol",
+              "logo": "https://media.api-sports.io/football/teams/602.png"
+            },
+            "away": {
+              "name": "Lech Poznan",
+              "logo": "https://media.api-sports.io/football/teams/347.png"
+            },
+            "home_score": 0,
+            "away_score": 5,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-5"
+            }
+          },
+          {
+            "time": "2020-09-18T07:00:00Z",
+            "home": {
+              "name": "Riga",
+              "logo": "https://media.api-sports.io/football/teams/10124.png"
+            },
+            "away": {
+              "name": "Tre Fiori",
+              "logo": "https://media.api-sports.io/football/teams/2260.png"
+            },
+            "home_score": 1,
+            "away_score": 0,
+            "score": {
+              "h1": "0-0",
+              "ft": "1-0"
+            }
+          },
+          {
+            "time": "2020-09-17T19:05:00Z",
+            "home": {
+              "name": "Budapest Honved",
+              "logo": "https://media.api-sports.io/football/teams/576.png"
+            },
+            "away": {
+              "name": "Malmo FF",
+              "logo": "https://media.api-sports.io/football/teams/375.png"
+            },
+            "home_score": 0,
+            "away_score": 2,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-2"
+            }
+          },
+          {
+            "time": "2020-09-17T19:00:00Z",
+            "home": {
+              "name": "TSC Backa Topola",
+              "logo": "https://media.api-sports.io/football/teams/2646.png"
+            },
+            "away": {
+              "name": "FCSB",
+              "logo": "https://media.api-sports.io/football/teams/559.png"
+            },
+            "home_score": 6,
+            "away_score": 6,
+            "score": {
+              "h1": "2-1",
+              "ft": "4-4"
+            }
+          },
+          {
+            "time": "2020-09-17T18:45:00Z",
+            "home": {
+              "name": "Servette FC",
+              "logo": "https://media.api-sports.io/football/teams/2184.png"
+            },
+            "away": {
+              "name": "Reims",
+              "logo": "https://media.api-sports.io/football/teams/93.png"
+            },
+            "home_score": 0,
+            "away_score": 1,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-1"
+            }
+          },
+          {
+            "time": "2020-09-17T18:45:00Z",
+            "home": {
+              "name": "NK Osijek",
+              "logo": "https://media.api-sports.io/football/teams/616.png"
+            },
+            "away": {
+              "name": "FC Basel 1893",
+              "logo": "https://media.api-sports.io/football/teams/551.png"
+            },
+            "home_score": 1,
+            "away_score": 2,
+            "score": {
+              "h1": "0-2",
+              "ft": "1-2"
+            }
+          },
+          {
+            "time": "2020-09-17T18:45:00Z",
+            "home": {
+              "name": "Linfield",
+              "logo": "https://media.api-sports.io/football/teams/583.png"
+            },
+            "away": {
+              "name": "Floriana",
+              "logo": "https://media.api-sports.io/football/teams/4625.png"
+            },
+            "home_score": 0,
+            "away_score": 1,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-1"
+            }
+          },
+          {
+            "time": "2020-09-17T18:45:00Z",
+            "home": {
+              "name": "Dunajska Streda",
+              "logo": "https://media.api-sports.io/football/teams/2257.png"
+            },
+            "away": {
+              "name": "FK Jablonec",
+              "logo": "https://media.api-sports.io/football/teams/1122.png"
+            },
+            "home_score": 5,
+            "away_score": 3,
+            "score": {
+              "h1": "1-1",
+              "ft": "3-3"
+            }
+          },
+          {
+            "time": "2020-09-17T18:30:00Z",
+            "home": {
+              "name": "Coleraine FC",
+              "logo": "https://media.api-sports.io/football/teams/669.png"
+            },
+            "away": {
+              "name": "Motherwell",
+              "logo": "https://media.api-sports.io/football/teams/256.png"
+            },
+            "home_score": 2,
+            "away_score": 2,
+            "score": {
+              "h1": "0-2",
+              "ft": "2-2"
+            }
+          },
+          {
+            "time": "2020-09-17T18:30:00Z",
+            "home": {
+              "name": "Viking",
+              "logo": "https://media.api-sports.io/football/teams/759.png"
+            },
+            "away": {
+              "name": "Aberdeen",
+              "logo": "https://media.api-sports.io/football/teams/252.png"
+            },
+            "home_score": 0,
+            "away_score": 2,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-2"
+            }
+          },
+          {
+            "time": "2020-09-17T18:15:00Z",
+            "home": {
+              "name": "Mura",
+              "logo": "https://media.api-sports.io/football/teams/4197.png"
+            },
+            "away": {
+              "name": "Aarhus",
+              "logo": "https://media.api-sports.io/football/teams/406.png"
+            },
+            "home_score": 3,
+            "away_score": 0,
+            "score": {
+              "h1": "1-0",
+              "ft": "3-0"
+            }
+          },
+          {
+            "time": "2020-09-17T18:00:00Z",
+            "home": {
+              "name": "Shamrock Rovers",
+              "logo": "https://media.api-sports.io/football/teams/652.png"
+            },
+            "away": {
+              "name": "AC Milan",
+              "logo": "https://media.api-sports.io/football/teams/489.png"
+            },
+            "home_score": 0,
+            "away_score": 2,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-2"
+            }
+          },
+          {
+            "time": "2020-09-17T18:00:00Z",
+            "home": {
+              "name": "Piast Gliwice",
+              "logo": "https://media.api-sports.io/football/teams/349.png"
+            },
+            "away": {
+              "name": "TSV Hartberg",
+              "logo": "https://media.api-sports.io/football/teams/1072.png"
+            },
+            "home_score": 3,
+            "away_score": 2,
+            "score": {
+              "h1": "1-1",
+              "ft": "3-2"
+            }
+          },
+          {
+            "time": "2020-09-17T18:00:00Z",
+            "home": {
+              "name": "Standard Liege",
+              "logo": "https://media.api-sports.io/football/teams/733.png"
+            },
+            "away": {
+              "name": "Bala Town",
+              "logo": "https://media.api-sports.io/football/teams/352.png"
+            },
+            "home_score": 2,
+            "away_score": 0,
+            "score": {
+              "h1": "2-0",
+              "ft": "2-0"
+            }
+          },
+          {
+            "time": "2020-09-17T18:00:00Z",
+            "home": {
+              "name": "Aris Thessalonikis",
+              "logo": "https://media.api-sports.io/football/teams/1123.png"
+            },
+            "away": {
+              "name": "Kolos Kovalivka",
+              "logo": "https://media.api-sports.io/football/teams/3627.png"
+            },
+            "home_score": 1,
+            "away_score": 2,
+            "score": {
+              "h1": "0-0",
+              "ft": "1-2"
+            }
+          },
+          {
+            "time": "2020-09-17T18:00:00Z",
+            "home": {
+              "name": "Borac Banja Luka",
+              "logo": "https://media.api-sports.io/football/teams/3364.png"
+            },
+            "away": {
+              "name": "Rio Ave",
+              "logo": "https://media.api-sports.io/football/teams/226.png"
+            },
+            "home_score": 0,
+            "away_score": 2,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-2"
+            }
+          },
+          {
+            "time": "2020-09-17T18:00:00Z",
+            "home": {
+              "name": "FK Kukesi",
+              "logo": "https://media.api-sports.io/football/teams/577.png"
+            },
+            "away": {
+              "name": "VfL Wolfsburg",
+              "logo": "https://media.api-sports.io/football/teams/161.png"
+            },
+            "home_score": 0,
+            "away_score": 4,
+            "score": {
+              "h1": "0-2",
+              "ft": "0-4"
+            }
+          },
+          {
+            "time": "2020-09-17T18:00:00Z",
+            "home": {
+              "name": "Sileks",
+              "logo": "https://media.api-sports.io/football/teams/4331.png"
+            },
+            "away": {
+              "name": "Drita",
+              "logo": "https://media.api-sports.io/football/teams/14281.png"
+            },
+            "home_score": 0,
+            "away_score": 2,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-2"
+            }
+          },
+          {
+            "time": "2020-09-17T17:30:00Z",
+            "home": {
+              "name": "Inter Club d'Escaldes",
+              "logo": "https://media.api-sports.io/football/teams/3342.png"
+            },
+            "away": {
+              "name": "Dundalk",
+              "logo": "https://media.api-sports.io/football/teams/584.png"
+            },
+            "home_score": 0,
+            "away_score": 1,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-1"
+            }
+          },
+          {
+            "time": "2020-09-17T17:00:00Z",
+            "home": {
+              "name": "GAP Connah S Quay FC",
+              "logo": "https://media.api-sports.io/football/teams/357.png"
+            },
+            "away": {
+              "name": "Dinamo Tbilisi",
+              "logo": "https://media.api-sports.io/football/teams/2262.png"
+            },
+            "home_score": 0,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-1"
+            }
+          },
+          {
+            "time": "2020-09-17T17:00:00Z",
+            "home": {
+              "name": "Maccabi Haifa",
+              "logo": "https://media.api-sports.io/football/teams/4195.png"
+            },
+            "away": {
+              "name": "Kairat Almaty",
+              "logo": "https://media.api-sports.io/football/teams/664.png"
+            },
+            "home_score": 2,
+            "away_score": 1,
+            "score": {
+              "h1": "1-1",
+              "ft": "2-1"
+            }
+          },
+          {
+            "time": "2020-09-17T17:00:00Z",
+            "home": {
+              "name": "Sfîntul Gheorghe",
+              "logo": "https://media.api-sports.io/football/teams/4632.png"
+            },
+            "away": {
+              "name": "FK Partizan",
+              "logo": "https://media.api-sports.io/football/teams/573.png"
+            },
+            "home_score": 0,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-0"
+            }
+          },
+          {
+            "time": "2020-09-17T17:00:00Z",
+            "home": {
+              "name": "Lokomotivi Tbilisi",
+              "logo": "https://media.api-sports.io/football/teams/3500.png"
+            },
+            "away": {
+              "name": "Dinamo Moscow",
+              "logo": "https://media.api-sports.io/football/teams/1088.png"
+            },
+            "home_score": 2,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "2-1"
+            }
+          },
+          {
+            "time": "2020-09-17T17:00:00Z",
+            "home": {
+              "name": "CSKA Sofia",
+              "logo": "https://media.api-sports.io/football/teams/853.png"
+            },
+            "away": {
+              "name": "Bate Borisov",
+              "logo": "https://media.api-sports.io/football/teams/388.png"
+            },
+            "home_score": 2,
+            "away_score": 0,
+            "score": {
+              "h1": "1-0",
+              "ft": "2-0"
+            }
+          },
+          {
+            "time": "2020-09-17T17:00:00Z",
+            "home": {
+              "name": "Laci",
+              "logo": "https://media.api-sports.io/football/teams/2256.png"
+            },
+            "away": {
+              "name": "Hapoel Beer Sheva",
+              "logo": "https://media.api-sports.io/football/teams/563.png"
+            },
+            "home_score": 1,
+            "away_score": 2,
+            "score": {
+              "h1": "0-0",
+              "ft": "1-2"
+            }
+          },
+          {
+            "time": "2020-09-17T17:00:00Z",
+            "home": {
+              "name": "Hibernians",
+              "logo": "https://media.api-sports.io/football/teams/3884.png"
+            },
+            "away": {
+              "name": "Videoton FC",
+              "logo": "https://media.api-sports.io/football/teams/610.png"
+            },
+            "home_score": 0,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-1"
+            }
+          },
+          {
+            "time": "2020-09-17T17:00:00Z",
+            "home": {
+              "name": "OFI",
+              "logo": "https://media.api-sports.io/football/teams/1124.png"
+            },
+            "away": {
+              "name": "Apollon Limassol",
+              "logo": "https://media.api-sports.io/football/teams/602.png"
+            },
+            "home_score": 0,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-1"
+            }
+          },
+          {
+            "time": "2020-09-17T17:00:00Z",
+            "home": {
+              "name": "Djurgardens IF",
+              "logo": "https://media.api-sports.io/football/teams/364.png"
+            },
+            "away": {
+              "name": "Europa Fc",
+              "logo": "https://media.api-sports.io/football/teams/593.png"
+            },
+            "home_score": 2,
+            "away_score": 1,
+            "score": {
+              "h1": "1-0",
+              "ft": "2-1"
+            }
+          },
+          {
+            "time": "2020-09-17T16:30:00Z",
+            "home": {
+              "name": "Olimpija Ljubljana",
+              "logo": "https://media.api-sports.io/football/teams/677.png"
+            },
+            "away": {
+              "name": "Zrinjski",
+              "logo": "https://media.api-sports.io/football/teams/588.png"
+            },
+            "home_score": 2,
+            "away_score": 3,
+            "score": {
+              "h1": "1-0",
+              "ft": "2-2"
+            }
+          },
+          {
+            "time": "2020-09-17T16:30:00Z",
+            "home": {
+              "name": "Flora Tallinn",
+              "logo": "https://media.api-sports.io/football/teams/687.png"
+            },
+            "away": {
+              "name": "KR Reykjavik",
+              "logo": "https://media.api-sports.io/football/teams/271.png"
+            },
+            "home_score": 2,
+            "away_score": 1,
+            "score": {
+              "h1": "2-0",
+              "ft": "2-1"
+            }
+          },
+          {
+            "time": "2020-09-17T16:00:00Z",
+            "home": {
+              "name": "Lokomotiv Plovdiv",
+              "logo": "https://media.api-sports.io/football/teams/858.png"
+            },
+            "away": {
+              "name": "Tottenham",
+              "logo": "https://media.api-sports.io/football/teams/47.png"
+            },
+            "home_score": 1,
+            "away_score": 2,
+            "score": {
+              "h1": "0-0",
+              "ft": "1-2"
+            }
+          },
+          {
+            "time": "2020-09-17T16:00:00Z",
+            "home": {
+              "name": "Neftchi Baku",
+              "logo": "https://media.api-sports.io/football/teams/2270.png"
+            },
+            "away": {
+              "name": "Galatasaray",
+              "logo": "https://media.api-sports.io/football/teams/645.png"
+            },
+            "home_score": 1,
+            "away_score": 3,
+            "score": {
+              "h1": "0-1",
+              "ft": "1-3"
+            }
+          },
+          {
+            "time": "2020-09-17T16:00:00Z",
+            "home": {
+              "name": "IFK Goteborg",
+              "logo": "https://media.api-sports.io/football/teams/366.png"
+            },
+            "away": {
+              "name": "FC Copenhagen",
+              "logo": "https://media.api-sports.io/football/teams/400.png"
+            },
+            "home_score": 1,
+            "away_score": 2,
+            "score": {
+              "h1": "0-0",
+              "ft": "1-2"
+            }
+          },
+          {
+            "time": "2020-09-17T16:00:00Z",
+            "home": {
+              "name": "FK Trakai",
+              "logo": "https://media.api-sports.io/football/teams/638.png"
+            },
+            "away": {
+              "name": "Slovan Liberec",
+              "logo": "https://media.api-sports.io/football/teams/782.png"
+            },
+            "home_score": 1,
+            "away_score": 5,
+            "score": {
+              "h1": "0-2",
+              "ft": "1-5"
+            }
+          },
+          {
+            "time": "2020-09-17T16:00:00Z",
+            "home": {
+              "name": "Bodo/Glimt",
+              "logo": "https://media.api-sports.io/football/teams/327.png"
+            },
+            "away": {
+              "name": "FK Zalgiris Vilnius",
+              "logo": "https://media.api-sports.io/football/teams/586.png"
+            },
+            "home_score": 3,
+            "away_score": 1,
+            "score": {
+              "h1": "2-1",
+              "ft": "3-1"
+            }
+          },
+          {
+            "time": "2020-09-17T15:45:00Z",
+            "home": {
+              "name": "FC Botosani",
+              "logo": "https://media.api-sports.io/football/teams/2581.png"
+            },
+            "away": {
+              "name": "Shkendija",
+              "logo": "https://media.api-sports.io/football/teams/609.png"
+            },
+            "home_score": 0,
+            "away_score": 1,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-1"
+            }
+          },
+          {
+            "time": "2020-09-17T15:30:00Z",
+            "home": {
+              "name": "KuPS",
+              "logo": "https://media.api-sports.io/football/teams/1165.png"
+            },
+            "away": {
+              "name": "Slovan Bratislava",
+              "logo": "https://media.api-sports.io/football/teams/656.png"
+            },
+            "home_score": 1,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-0"
+            }
+          },
+          {
+            "time": "2020-09-17T15:00:00Z",
+            "home": {
+              "name": "Lincoln Red Imps FC",
+              "logo": "https://media.api-sports.io/football/teams/667.png"
+            },
+            "away": {
+              "name": "Rangers",
+              "logo": "https://media.api-sports.io/football/teams/257.png"
+            },
+            "home_score": 0,
+            "away_score": 5,
+            "score": {
+              "h1": "0-2",
+              "ft": "0-5"
+            }
+          },
+          {
+            "time": "2020-09-17T14:00:00Z",
+            "home": {
+              "name": "FC Astana",
+              "logo": "https://media.api-sports.io/football/teams/562.png"
+            },
+            "away": {
+              "name": "Buducnost Podgorica",
+              "logo": "https://media.api-sports.io/football/teams/579.png"
+            },
+            "home_score": 0,
+            "away_score": 1,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-1"
+            }
+          },
+          {
+            "time": "2020-09-17T14:00:00Z",
+            "home": {
+              "name": "Teuta Durrës",
+              "logo": "https://media.api-sports.io/football/teams/3320.png"
+            },
+            "away": {
+              "name": "Granada CF",
+              "logo": "https://media.api-sports.io/football/teams/715.png"
+            },
+            "home_score": 0,
+            "away_score": 4,
+            "score": {
+              "h1": "0-3",
+              "ft": "0-4"
+            }
+          },
+          {
+            "time": "2020-09-17T14:00:00Z",
+            "home": {
+              "name": "Ararat-Armenia",
+              "logo": "https://media.api-sports.io/football/teams/3683.png"
+            },
+            "away": {
+              "name": "Fola Esch",
+              "logo": "https://media.api-sports.io/football/teams/626.png"
+            },
+            "home_score": 4,
+            "away_score": 3,
+            "score": {
+              "h1": "1-1",
+              "ft": "3-3"
+            }
+          },
+          {
+            "time": "2020-09-17T13:30:00Z",
+            "home": {
+              "name": "Renova",
+              "logo": "https://media.api-sports.io/football/teams/4330.png"
+            },
+            "away": {
+              "name": "HNK Hajduk Split",
+              "logo": "https://media.api-sports.io/football/teams/608.png"
+            },
+            "home_score": 0,
+            "away_score": 1,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-1"
+            }
+          },
+          {
+            "time": "2020-09-17T12:15:00Z",
+            "home": {
+              "name": "FK Ventspils",
+              "logo": "https://media.api-sports.io/football/teams/707.png"
+            },
+            "away": {
+              "name": "Rosenborg",
+              "logo": "https://media.api-sports.io/football/teams/331.png"
+            },
+            "home_score": 1,
+            "away_score": 5,
+            "score": {
+              "h1": "1-3",
+              "ft": "1-5"
+            }
+          },
+          {
+            "time": "2020-09-17T12:00:00Z",
+            "home": {
+              "name": "Kaisar",
+              "logo": "https://media.api-sports.io/football/teams/4562.png"
+            },
+            "away": {
+              "name": "Apoel Nicosia",
+              "logo": "https://media.api-sports.io/football/teams/2247.png"
+            },
+            "home_score": 1,
+            "away_score": 4,
+            "score": {
+              "h1": "1-2",
+              "ft": "1-4"
+            }
+          },
+          {
+            "time": "2020-09-16T18:00:00Z",
+            "home": {
+              "name": "B36 Torshavn",
+              "logo": "https://media.api-sports.io/football/teams/678.png"
+            },
+            "away": {
+              "name": "The New Saints",
+              "logo": "https://media.api-sports.io/football/teams/354.png"
+            },
+            "home_score": 2,
+            "away_score": 2,
+            "score": {
+              "h1": "0-0",
+              "ft": "1-1"
+            }
+          },
+          {
+            "time": "2020-09-16T17:00:00Z",
+            "home": {
+              "name": "Hammarby FF",
+              "logo": "https://media.api-sports.io/football/teams/363.png"
+            },
+            "away": {
+              "name": "Lech Poznan",
+              "logo": "https://media.api-sports.io/football/teams/347.png"
+            },
+            "home_score": 0,
+            "away_score": 3,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-3"
+            }
+          },
+          {
+            "time": "2020-09-16T16:30:00Z",
+            "home": {
+              "name": "Progres Niederkorn",
+              "logo": "https://media.api-sports.io/football/teams/658.png"
+            },
+            "away": {
+              "name": "Willem II",
+              "logo": "https://media.api-sports.io/football/teams/195.png"
+            },
+            "home_score": 0,
+            "away_score": 5,
+            "score": {
+              "h1": "0-3",
+              "ft": "0-5"
+            }
+          },
+          {
+            "time": "2020-09-10T17:30:00Z",
+            "home": {
+              "name": "Kalju Nomme",
+              "logo": "https://media.api-sports.io/football/teams/662.png"
+            },
+            "away": {
+              "name": "Mura",
+              "logo": "https://media.api-sports.io/football/teams/4197.png"
+            },
+            "home_score": 0,
+            "away_score": 4,
+            "score": {
+              "h1": "0-4",
+              "ft": "0-4"
+            }
+          },
+          {
+            "time": "2020-09-09T17:00:00Z",
+            "home": {
+              "name": "Maccabi Haifa",
+              "logo": "https://media.api-sports.io/football/teams/4195.png"
+            },
+            "away": {
+              "name": "Zeljeznicar Sarajevo",
+              "logo": "https://media.api-sports.io/football/teams/654.png"
+            },
+            "home_score": 3,
+            "away_score": 1,
+            "score": {
+              "h1": "1-1",
+              "ft": "3-1"
+            }
+          }
+        ]
+      },
+      {
+        "group": "Tháng 08, 2020",
+        "matches": [
+          {
+            "time": "2020-08-27T19:00:00Z",
+            "home": {
+              "name": "FK Partizan",
+              "logo": "https://media.api-sports.io/football/teams/573.png"
+            },
+            "away": {
+              "name": "Rīgas FS",
+              "logo": "https://media.api-sports.io/football/teams/4160.png"
+            },
+            "home_score": 1,
+            "away_score": 0,
+            "score": {
+              "h1": "0-0",
+              "ft": "1-0"
+            }
+          },
+          {
+            "time": "2020-08-27T19:00:00Z",
+            "home": {
+              "name": "Budapest Honved",
+              "logo": "https://media.api-sports.io/football/teams/576.png"
+            },
+            "away": {
+              "name": "Inter Turku",
+              "logo": "https://media.api-sports.io/football/teams/1164.png"
+            },
+            "home_score": 2,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "1-1"
+            }
+          },
+          {
+            "time": "2020-08-27T19:00:00Z",
+            "home": {
+              "name": "Shamrock Rovers",
+              "logo": "https://media.api-sports.io/football/teams/652.png"
+            },
+            "away": {
+              "name": "Ilves Tampere",
+              "logo": "https://media.api-sports.io/football/teams/1163.png"
+            },
+            "home_score": 2,
+            "away_score": 2,
+            "score": {
+              "h1": "1-1",
+              "ft": "2-2"
+            }
+          },
+          {
+            "time": "2020-08-27T19:00:00Z",
+            "home": {
+              "name": "Lech Poznan",
+              "logo": "https://media.api-sports.io/football/teams/347.png"
+            },
+            "away": {
+              "name": "Valmiera / BSS",
+              "logo": "https://media.api-sports.io/football/teams/4153.png"
+            },
+            "home_score": 3,
+            "away_score": 0,
+            "score": {
+              "h1": "0-0",
+              "ft": "3-0"
+            }
+          },
+          {
+            "time": "2020-08-27T18:45:00Z",
+            "home": {
+              "name": "Maribor",
+              "logo": "https://media.api-sports.io/football/teams/552.png"
+            },
+            "away": {
+              "name": "Coleraine FC",
+              "logo": "https://media.api-sports.io/football/teams/669.png"
+            },
+            "home_score": 1,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "1-1"
+            }
+          },
+          {
+            "time": "2020-08-27T18:45:00Z",
+            "home": {
+              "name": "Aberdeen",
+              "logo": "https://media.api-sports.io/football/teams/252.png"
+            },
+            "away": {
+              "name": "NSI Runavik",
+              "logo": "https://media.api-sports.io/football/teams/682.png"
+            },
+            "home_score": 6,
+            "away_score": 0,
+            "score": {
+              "h1": "2-0",
+              "ft": "6-0"
+            }
+          },
+          {
+            "time": "2020-08-27T18:45:00Z",
+            "home": {
+              "name": "Motherwell",
+              "logo": "https://media.api-sports.io/football/teams/256.png"
+            },
+            "away": {
+              "name": "Glentoran",
+              "logo": "https://media.api-sports.io/football/teams/5352.png"
+            },
+            "home_score": 5,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "5-1"
+            }
+          },
+          {
+            "time": "2020-08-27T18:30:00Z",
+            "home": {
+              "name": "FCSB",
+              "logo": "https://media.api-sports.io/football/teams/559.png"
+            },
+            "away": {
+              "name": "Shirak",
+              "logo": "https://media.api-sports.io/football/teams/3686.png"
+            },
+            "home_score": 3,
+            "away_score": 0,
+            "score": {
+              "h1": "1-0",
+              "ft": "3-0"
+            }
+          },
+          {
+            "time": "2020-08-27T18:15:00Z",
+            "home": {
+              "name": "Servette FC",
+              "logo": "https://media.api-sports.io/football/teams/2184.png"
+            },
+            "away": {
+              "name": "Ružomberok",
+              "logo": "https://media.api-sports.io/football/teams/3549.png"
+            },
+            "home_score": 3,
+            "away_score": 0,
+            "score": {
+              "h1": "0-0",
+              "ft": "3-0"
+            }
+          },
+          {
+            "time": "2020-08-27T18:00:00Z",
+            "home": {
+              "name": "B36 Torshavn",
+              "logo": "https://media.api-sports.io/football/teams/678.png"
+            },
+            "away": {
+              "name": "FC Levadia Tallinn",
+              "logo": "https://media.api-sports.io/football/teams/2273.png"
+            },
+            "home_score": 4,
+            "away_score": 3,
+            "score": {
+              "h1": "0-0",
+              "ft": "2-2"
+            }
+          },
+          {
+            "time": "2020-08-27T18:00:00Z",
+            "home": {
+              "name": "Iskra",
+              "logo": "https://media.api-sports.io/football/teams/3738.png"
+            },
+            "away": {
+              "name": "Lokomotiv Plovdiv",
+              "logo": "https://media.api-sports.io/football/teams/858.png"
+            },
+            "home_score": 0,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-1"
+            }
+          },
+          {
+            "time": "2020-08-27T18:00:00Z",
+            "home": {
+              "name": "Zrinjski",
+              "logo": "https://media.api-sports.io/football/teams/588.png"
+            },
+            "away": {
+              "name": "FC Differdange 03",
+              "logo": "https://media.api-sports.io/football/teams/684.png"
+            },
+            "home_score": 3,
+            "away_score": 0,
+            "score": {
+              "h1": "2-0",
+              "ft": "3-0"
+            }
+          },
+          {
+            "time": "2020-08-27T18:00:00Z",
+            "home": {
+              "name": "Valletta FC",
+              "logo": "https://media.api-sports.io/football/teams/659.png"
+            },
+            "away": {
+              "name": "Bala Town",
+              "logo": "https://media.api-sports.io/football/teams/352.png"
+            },
+            "home_score": 0,
+            "away_score": 1,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-1"
+            }
+          },
+          {
+            "time": "2020-08-27T18:00:00Z",
+            "home": {
+              "name": "FK Kukesi",
+              "logo": "https://media.api-sports.io/football/teams/577.png"
+            },
+            "away": {
+              "name": "Slavia Sofia",
+              "logo": "https://media.api-sports.io/football/teams/854.png"
+            },
+            "home_score": 2,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "2-1"
+            }
+          },
+          {
+            "time": "2020-08-27T18:00:00Z",
+            "home": {
+              "name": "Petrocub",
+              "logo": "https://media.api-sports.io/football/teams/2271.png"
+            },
+            "away": {
+              "name": "TSC Backa Topola",
+              "logo": "https://media.api-sports.io/football/teams/2646.png"
+            },
+            "home_score": 0,
+            "away_score": 2,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-2"
+            }
+          },
+          {
+            "time": "2020-08-27T17:45:00Z",
+            "home": {
+              "name": "Hapoel Beer Sheva",
+              "logo": "https://media.api-sports.io/football/teams/563.png"
+            },
+            "away": {
+              "name": "Dinamo Batumi",
+              "logo": "https://media.api-sports.io/football/teams/705.png"
+            },
+            "home_score": 3,
+            "away_score": 0,
+            "score": {
+              "h1": "2-0",
+              "ft": "3-0"
+            }
+          },
+          {
+            "time": "2020-08-27T17:30:00Z",
+            "home": {
+              "name": "The New Saints",
+              "logo": "https://media.api-sports.io/football/teams/354.png"
+            },
+            "away": {
+              "name": "Žilina",
+              "logo": "https://media.api-sports.io/football/teams/3554.png"
+            },
+            "home_score": 3,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "1-1"
+            }
+          },
+          {
+            "time": "2020-08-27T17:30:00Z",
+            "home": {
+              "name": "Shakhter Soligorsk",
+              "logo": "https://media.api-sports.io/football/teams/392.png"
+            },
+            "away": {
+              "name": "Sfîntul Gheorghe",
+              "logo": "https://media.api-sports.io/football/teams/4632.png"
+            },
+            "home_score": 0,
+            "away_score": 0,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-0"
+            }
+          },
+          {
+            "time": "2020-08-27T17:15:00Z",
+            "home": {
+              "name": "FH hafnarfjordur",
+              "logo": "https://media.api-sports.io/football/teams/270.png"
+            },
+            "away": {
+              "name": "Dunajska Streda",
+              "logo": "https://media.api-sports.io/football/teams/2257.png"
+            },
+            "home_score": 0,
+            "away_score": 2,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-2"
+            }
+          },
+          {
+            "time": "2020-08-27T17:00:00Z",
+            "home": {
+              "name": "Gjilani",
+              "logo": "https://media.api-sports.io/football/teams/12772.png"
+            },
+            "away": {
+              "name": "Apoel Nicosia",
+              "logo": "https://media.api-sports.io/football/teams/2247.png"
+            },
+            "home_score": 0,
+            "away_score": 2,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-0"
+            }
+          },
+          {
+            "time": "2020-08-27T17:00:00Z",
+            "home": {
+              "name": "Rosenborg",
+              "logo": "https://media.api-sports.io/football/teams/331.png"
+            },
+            "away": {
+              "name": "Breidablik",
+              "logo": "https://media.api-sports.io/football/teams/276.png"
+            },
+            "home_score": 4,
+            "away_score": 2,
+            "score": {
+              "h1": "4-0",
+              "ft": "4-2"
+            }
+          },
+          {
+            "time": "2020-08-27T17:00:00Z",
+            "home": {
+              "name": "Hammarby FF",
+              "logo": "https://media.api-sports.io/football/teams/363.png"
+            },
+            "away": {
+              "name": "Puskas Academy",
+              "logo": "https://media.api-sports.io/football/teams/2391.png"
+            },
+            "home_score": 3,
+            "away_score": 0,
+            "score": {
+              "h1": "2-0",
+              "ft": "3-0"
+            }
+          },
+          {
+            "time": "2020-08-27T17:00:00Z",
+            "home": {
+              "name": "Aarhus",
+              "logo": "https://media.api-sports.io/football/teams/406.png"
+            },
+            "away": {
+              "name": "Honka",
+              "logo": "https://media.api-sports.io/football/teams/1169.png"
+            },
+            "home_score": 5,
+            "away_score": 2,
+            "score": {
+              "h1": "3-1",
+              "ft": "5-2"
+            }
+          },
+          {
+            "time": "2020-08-27T17:00:00Z",
+            "home": {
+              "name": "FK Zalgiris Vilnius",
+              "logo": "https://media.api-sports.io/football/teams/586.png"
+            },
+            "away": {
+              "name": "Paide",
+              "logo": "https://media.api-sports.io/football/teams/3528.png"
+            },
+            "home_score": 2,
+            "away_score": 0,
+            "score": {
+              "h1": "2-0",
+              "ft": "2-0"
+            }
+          },
+          {
+            "time": "2020-08-27T17:00:00Z",
+            "home": {
+              "name": "Malmo FF",
+              "logo": "https://media.api-sports.io/football/teams/375.png"
+            },
+            "away": {
+              "name": "Cracovia Krakow",
+              "logo": "https://media.api-sports.io/football/teams/350.png"
+            },
+            "home_score": 2,
+            "away_score": 0,
+            "score": {
+              "h1": "2-0",
+              "ft": "2-0"
+            }
+          },
+          {
+            "time": "2020-08-27T17:00:00Z",
+            "home": {
+              "name": "FC Vaduz",
+              "logo": "https://media.api-sports.io/football/teams/660.png"
+            },
+            "away": {
+              "name": "Hibernians",
+              "logo": "https://media.api-sports.io/football/teams/3884.png"
+            },
+            "home_score": 0,
+            "away_score": 2,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-2"
+            }
+          },
+          {
+            "time": "2020-08-27T17:00:00Z",
+            "home": {
+              "name": "Keshla FC",
+              "logo": "https://media.api-sports.io/football/teams/666.png"
+            },
+            "away": {
+              "name": "Laci",
+              "logo": "https://media.api-sports.io/football/teams/2256.png"
+            },
+            "home_score": 0,
+            "away_score": 0,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-0"
+            }
+          },
+          {
+            "time": "2020-08-27T17:00:00Z",
+            "home": {
+              "name": "CSKA Sofia",
+              "logo": "https://media.api-sports.io/football/teams/853.png"
+            },
+            "away": {
+              "name": "Sirens",
+              "logo": "https://media.api-sports.io/football/teams/4619.png"
+            },
+            "home_score": 2,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "2-1"
+            }
+          },
+          {
+            "time": "2020-08-27T17:00:00Z",
+            "home": {
+              "name": "Lokomotivi Tbilisi",
+              "logo": "https://media.api-sports.io/football/teams/3500.png"
+            },
+            "away": {
+              "name": "CS Universitatea Craiova",
+              "logo": "https://media.api-sports.io/football/teams/632.png"
+            },
+            "home_score": 2,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "2-1"
+            }
+          },
+          {
+            "time": "2020-08-27T16:30:00Z",
+            "home": {
+              "name": "Olimpija Ljubljana",
+              "logo": "https://media.api-sports.io/football/teams/677.png"
+            },
+            "away": {
+              "name": "Vikingur Reykjavik",
+              "logo": "https://media.api-sports.io/football/teams/278.png"
+            },
+            "home_score": 2,
+            "away_score": 1,
+            "score": {
+              "h1": "0-1",
+              "ft": "1-1"
+            }
+          },
+          {
+            "time": "2020-08-27T16:30:00Z",
+            "home": {
+              "name": "Videoton FC",
+              "logo": "https://media.api-sports.io/football/teams/610.png"
+            },
+            "away": {
+              "name": "Bohemians",
+              "logo": "https://media.api-sports.io/football/teams/3840.png"
+            },
+            "home_score": 1,
+            "away_score": 1,
+            "score": {
+              "h1": "1-1",
+              "ft": "1-1"
+            }
+          },
+          {
+            "time": "2020-08-27T16:00:00Z",
+            "home": {
+              "name": "Neftchi Baku",
+              "logo": "https://media.api-sports.io/football/teams/2270.png"
+            },
+            "away": {
+              "name": "Shkupi 1927",
+              "logo": "https://media.api-sports.io/football/teams/2265.png"
+            },
+            "home_score": 2,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "2-1"
+            }
+          },
+          {
+            "time": "2020-08-27T16:00:00Z",
+            "home": {
+              "name": "Apollon Limassol",
+              "logo": "https://media.api-sports.io/football/teams/602.png"
+            },
+            "away": {
+              "name": "Saburtalo",
+              "logo": "https://media.api-sports.io/football/teams/3502.png"
+            },
+            "home_score": 5,
+            "away_score": 1,
+            "score": {
+              "h1": "2-0",
+              "ft": "5-1"
+            }
+          },
+          {
+            "time": "2020-08-27T16:00:00Z",
+            "home": {
+              "name": "Bodo/Glimt",
+              "logo": "https://media.api-sports.io/football/teams/327.png"
+            },
+            "away": {
+              "name": "Kauno Žalgiris",
+              "logo": "https://media.api-sports.io/football/teams/3872.png"
+            },
+            "home_score": 6,
+            "away_score": 1,
+            "score": {
+              "h1": "2-0",
+              "ft": "6-1"
+            }
+          },
+          {
+            "time": "2020-08-27T16:00:00Z",
+            "home": {
+              "name": "Alashkert",
+              "logo": "https://media.api-sports.io/football/teams/582.png"
+            },
+            "away": {
+              "name": "Renova",
+              "logo": "https://media.api-sports.io/football/teams/4330.png"
+            },
+            "home_score": 0,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-1"
+            }
+          },
+          {
+            "time": "2020-08-27T16:00:00Z",
+            "home": {
+              "name": "Sumqayıt",
+              "logo": "https://media.api-sports.io/football/teams/5503.png"
+            },
+            "away": {
+              "name": "Shkendija",
+              "logo": "https://media.api-sports.io/football/teams/609.png"
+            },
+            "home_score": 0,
+            "away_score": 2,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-2"
+            }
+          },
+          {
+            "time": "2020-08-27T15:30:00Z",
+            "home": {
+              "name": "Lincoln Red Imps FC",
+              "logo": "https://media.api-sports.io/football/teams/667.png"
+            },
+            "away": {
+              "name": "Union Titus Petange",
+              "logo": "https://media.api-sports.io/football/teams/2032.png"
+            },
+            "home_score": 2,
+            "away_score": 0,
+            "score": {
+              "h1": "1-0",
+              "ft": "2-0"
+            }
+          },
+          {
+            "time": "2020-08-27T15:00:00Z",
+            "home": {
+              "name": "Dinamo Minsk",
+              "logo": "https://media.api-sports.io/football/teams/394.png"
+            },
+            "away": {
+              "name": "Piast Gliwice",
+              "logo": "https://media.api-sports.io/football/teams/349.png"
+            },
+            "home_score": 0,
+            "away_score": 2,
+            "score": {
+              "h1": "0-1",
+              "ft": "0-2"
+            }
+          },
+          {
+            "time": "2020-08-27T14:30:00Z",
+            "home": {
+              "name": "Teuta Durrës",
+              "logo": "https://media.api-sports.io/football/teams/3320.png"
+            },
+            "away": {
+              "name": "Beitar Jerusalem",
+              "logo": "https://media.api-sports.io/football/teams/657.png"
+            },
+            "home_score": 2,
+            "away_score": 0,
+            "score": {
+              "h1": "1-0",
+              "ft": "2-0"
+            }
+          },
+          {
+            "time": "2020-08-27T14:30:00Z",
+            "home": {
+              "name": "Borac Banja Luka",
+              "logo": "https://media.api-sports.io/football/teams/3364.png"
+            },
+            "away": {
+              "name": "Sutjeska",
+              "logo": "https://media.api-sports.io/football/teams/673.png"
+            },
+            "home_score": 1,
+            "away_score": 0,
+            "score": {
+              "h1": "1-0",
+              "ft": "1-0"
+            }
+          },
+          {
+            "time": "2020-08-27T14:00:00Z",
+            "home": {
+              "name": "FK Ventspils",
+              "logo": "https://media.api-sports.io/football/teams/707.png"
+            },
+            "away": {
+              "name": "Dinamo-Auto",
+              "logo": "https://media.api-sports.io/football/teams/4631.png"
+            },
+            "home_score": 2,
+            "away_score": 1,
+            "score": {
+              "h1": "1-1",
+              "ft": "2-1"
+            }
+          },
+          {
+            "time": "2020-08-27T14:00:00Z",
+            "home": {
+              "name": "Ordabasy",
+              "logo": "https://media.api-sports.io/football/teams/692.png"
+            },
+            "away": {
+              "name": "FC Botosani",
+              "logo": "https://media.api-sports.io/football/teams/2581.png"
+            },
+            "home_score": 1,
+            "away_score": 2,
+            "score": {
+              "h1": "1-2",
+              "ft": "1-2"
+            }
+          },
+          {
+            "time": "2020-08-27T14:00:00Z",
+            "home": {
+              "name": "Kairat Almaty",
+              "logo": "https://media.api-sports.io/football/teams/664.png"
+            },
+            "away": {
+              "name": "Artsakh",
+              "logo": "https://media.api-sports.io/football/teams/3684.png"
+            },
+            "home_score": 4,
+            "away_score": 1,
+            "score": {
+              "h1": "2-1",
+              "ft": "4-1"
+            }
+          },
+          {
+            "time": "2020-08-26T16:30:00Z",
+            "home": {
+              "name": "Progres Niederkorn",
+              "logo": "https://media.api-sports.io/football/teams/658.png"
+            },
+            "away": {
+              "name": "Zeta",
+              "logo": "https://media.api-sports.io/football/teams/676.png"
+            },
+            "home_score": 3,
+            "away_score": 0,
+            "score": {
+              "h1": "1-0",
+              "ft": "3-0"
+            }
+          },
+          {
+            "time": "2020-08-25T16:00:00Z",
+            "home": {
+              "name": "FK Trakai",
+              "logo": "https://media.api-sports.io/football/teams/638.png"
+            },
+            "away": {
+              "name": "Derry City",
+              "logo": "https://media.api-sports.io/football/teams/670.png"
+            },
+            "home_score": 3,
+            "away_score": 2,
+            "score": {
+              "h1": "1-1",
+              "ft": "2-2"
+            }
+          },
+          {
+            "time": "2020-08-22T16:00:00Z",
+            "home": {
+              "name": "Lincoln Red Imps FC",
+              "logo": "https://media.api-sports.io/football/teams/667.png"
+            },
+            "away": {
+              "name": "Prishtina",
+              "logo": "https://media.api-sports.io/football/teams/680.png"
+            },
+            "home_score": 3,
+            "away_score": 0,
+            "score": {
+              "ft": "3-0"
+            }
+          },
+          {
+            "time": "2020-08-21T18:00:00Z",
+            "home": {
+              "name": "Tre Penne",
+              "logo": "https://media.api-sports.io/football/teams/700.png"
+            },
+            "away": {
+              "name": "Gjilani",
+              "logo": "https://media.api-sports.io/football/teams/12772.png"
+            },
+            "home_score": 1,
+            "away_score": 3,
+            "score": {
+              "h1": "1-1",
+              "ft": "1-3"
+            }
+          },
+          {
+            "time": "2020-08-20T18:30:00Z",
+            "home": {
+              "name": "Coleraine FC",
+              "logo": "https://media.api-sports.io/football/teams/669.png"
+            },
+            "away": {
+              "name": "La Fiorita",
+              "logo": "https://media.api-sports.io/football/teams/2249.png"
+            },
+            "home_score": 1,
+            "away_score": 0,
+            "score": {
+              "h1": "0-0",
+              "ft": "1-0"
+            }
+          },
+          {
+            "time": "2020-08-20T18:00:00Z",
+            "home": {
+              "name": "Glentoran",
+              "logo": "https://media.api-sports.io/football/teams/5352.png"
+            },
+            "away": {
+              "name": "HB",
+              "logo": "https://media.api-sports.io/football/teams/4133.png"
+            },
+            "home_score": 1,
+            "away_score": 0,
+            "score": {
+              "h1": "1-0",
+              "ft": "1-0"
+            }
+          },
+          {
+            "time": "2020-08-20T17:30:00Z",
+            "home": {
+              "name": "FC Santa Coloma",
+              "logo": "https://media.api-sports.io/football/teams/591.png"
+            },
+            "away": {
+              "name": "Iskra",
+              "logo": "https://media.api-sports.io/football/teams/3738.png"
+            },
+            "home_score": 0,
+            "away_score": 0,
+            "score": {
+              "h1": "0-0",
+              "ft": "0-0"
+            }
+          },
+          {
+            "time": "2020-08-20T17:00:00Z",
+            "home": {
+              "name": "NSI Runavik",
+              "logo": "https://media.api-sports.io/football/teams/682.png"
+            },
+            "away": {
+              "name": "Barry Town",
+              "logo": "https://media.api-sports.io/football/teams/361.png"
+            },
+            "home_score": 5,
+            "away_score": 1,
+            "score": {
+              "h1": "0-0",
+              "ft": "5-1"
+            }
+          },
+          {
+            "time": "2020-08-20T15:30:00Z",
+            "home": {
+              "name": "St Joseph S Fc",
+              "logo": "https://media.api-sports.io/football/teams/698.png"
+            },
+            "away": {
+              "name": "B36 Torshavn",
+              "logo": "https://media.api-sports.io/football/teams/678.png"
+            },
+            "home_score": 1,
+            "away_score": 2,
+            "score": {
+              "h1": "1-2",
+              "ft": "1-2"
+            }
+          },
+          {
+            "time": "2020-08-18T18:00:00Z",
+            "home": {
+              "name": "UE Engordany",
+              "logo": "https://media.api-sports.io/football/teams/2268.png"
+            },
+            "away": {
+              "name": "Zeta",
+              "logo": "https://media.api-sports.io/football/teams/676.png"
+            },
+            "home_score": 1,
+            "away_score": 3,
+            "score": {
+              "h1": "0-1",
+              "ft": "1-3"
+            }
+          }
+        ]
+      }
+    ],
+    "expired_time": "2020-09-24T12:24:15.444524Z"
+  },
+  "code": 200,
+  "status": true
+}

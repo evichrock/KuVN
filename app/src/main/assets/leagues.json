@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": "b274278f-dc1b-48b1-b33d-42ae04e92067",
+      "ref_id": 2771,
+      "name": "UEFA Champions League",
+      "thumb": "https://media.api-sports.io/football/leagues/2.png",
+      "active": true,
+      "last_modified_time": "2020-09-02T21:24:18.327778Z"
+    },
+    {
+      "id": "3c578f2b-3551-4e1b-b4ba-48109f3439b0",
+      "ref_id": 2755,
+      "name": "Bundesliga 1",
+      "thumb": "https://media.api-sports.io/football/leagues/78.png",
+      "active": true,
+      "last_modified_time": "2020-09-02T21:30:16.3885486Z"
+    },
+    {
+      "id": "026e4f65-f199-415b-b93d-89bc4532005a",
+      "ref_id": 2790,
+      "name": "Premier League",
+      "thumb": "https://media.api-sports.io/football/leagues/39.png",
+      "active": true,
+      "last_modified_time": "2020-09-02T21:27:13.9723143Z"
+    },
+    {
+      "id": "3364a292-3a43-4fbe-82e1-96c24f87f775",
+      "ref_id": 2769,
+      "name": "Canadian Soccer League",
+      "thumb": "https://media.api-sports.io/football/leagues/258.png",
+      "active": true,
+      "last_modified_time": "2020-09-02T21:28:50.7913033Z"
+    },
+    {
+      "id": "2a87d742-e4af-41d4-bb36-daf205bcf33f",
+      "ref_id": 2764,
+      "name": "Liga I",
+      "thumb": "https://media.api-sports.io/football/leagues/283.png",
+      "active": true,
+      "last_modified_time": "2020-09-02T21:29:27.4757102Z"
+    },
+    {
+      "id": "7f92153d-a177-4282-9975-e0ce02831ca0",
+      "ref_id": 2743,
+      "name": "Bundesliga 2",
+      "thumb": "https://media.api-sports.io/football/leagues/79.png",
+      "active": true,
+      "last_modified_time": "2020-09-02T21:31:02.0320116Z"
+    },
+    {
+      "id": "3a47ae3c-9717-4848-8490-e0e95e2cc49c",
+      "ref_id": 2777,
+      "name": "UEFA Europa League",
+      "thumb": "https://media.api-sports.io/football/leagues/3.png",
+      "active": true,
+      "last_modified_time": "2020-09-02T21:25:29.4414009Z"
+    }
+  ],
+  "code": 200,
+  "status": true
+}

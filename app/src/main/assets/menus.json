@@ -1,0 +1,59 @@
+{
+  "data": {
+    "page": 1,
+    "limit": 25,
+    "total_count": 3,
+    "total_pages": 1,
+    "items": [
+      {
+        "id": "56975e85-d5ae-432b-abd8-006bb3aede52",
+        "title": "Nhận định Thể thao",
+        "thumb": "https://drive.google.com/uc?export=view&id=1UGYlT-zirUCDomQ1_uT9vaFhuqOGrFuW",
+        "value": "b_cat_blogs:192264f8-7866-4d2c-bec2-7624e830d235",
+        "order": 2,
+        "type": 2,
+        "active": true,
+        "last_modified_time": "0001-01-01T00:00:00",
+        "attr": {
+          "type": 2,
+          "name": "b_cat_blogs",
+          "data": "192264f8-7866-4d2c-bec2-7624e830d235"
+        }
+      },
+      {
+        "id": "a19b9cf1-ff60-42eb-90f6-17a1f09eb266",
+        "title": "Tin chuyển nhượng",
+        "thumb": "https://drive.google.com/uc?export=view&id=1iJbu5DpRvXJlH6xTBRKq0Mc2iba7hQWh",
+        "value": "b_cat_blogs:6620f415-2e0e-414e-a9f4-f1e37c86a1e4",
+        "order": 2,
+        "type": 2,
+        "active": true,
+        "last_modified_time": "0001-01-01T00:00:00",
+        "attr": {
+          "type": 2,
+          "name": "b_cat_blogs",
+          "data": "6620f415-2e0e-414e-a9f4-f1e37c86a1e4"
+        }
+      },
+      {
+        "id": "d0c788cc-1c3a-41c7-ae22-338fac239b64",
+        "title": "Giới thiệu về Ku11vn",
+        "thumb": "https://drive.google.com/uc?export=view&id=1x1S-RpJkN5eWT-iNFEZvI-pq9vM7gUos",
+        "value": "b_detail:597cc003-54d0-492e-bd29-f3ce6ceb403b",
+        "order": 3,
+        "type": 2,
+        "active": true,
+        "last_modified_time": "0001-01-01T00:00:00",
+        "attr": {
+          "type": 2,
+          "name": "b_detail",
+          "data": "597cc003-54d0-492e-bd29-f3ce6ceb403b"
+        }
+      }
+    ],
+    "has_prev_page": false,
+    "has_next_page": false
+  },
+  "code": 200,
+  "status": true
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "page": 0,
+    "limit": 10,
+    "total_count": 6,
+    "total_pages": 1,
+    "items": [
+      {
+        "id": "f54c3232-0145-42a4-845b-e26b6b8f174e",
+        "title": "Nhận định Tây Ban Nha vs Ukraine, 01h45 ngày 7/9",
+        "description": "<h1><span style=\"color: rgb(0, 0, 255); font-weight: bold;\">NHẬN ĐỊNH TRẬN ĐẤU TÂY BAN NHA VS UKRAINE</span></h1>",
+        "thumb": "https://drive.google.com/uc?export=view&id=1GeuBJJQcSPizgFs2sPTjq7r0WE4TZYZQ",
+        "active": true,
+        "published_time": "2020-09-09T05:28:58.8952448Z",
+        "last_modified_time": "2020-09-09T05:28:58.8952448Z"
+      },
+      {
+        "id": "1ce803b4-c788-424d-98ed-bcbd1d4a6115",
+        "title": "Nhận định CH Séc vs Scotland, 01h45 ngày 8/9",
+        "description": "<h1><span style=\"font-family: Arial; color: rgb(0, 0, 255); font-weight: bold;\">NHẬN ĐỊNH TRẬN ĐẤU CH SÉC - SCOTLAND</span></h1>",
+        "thumb": "https://drive.google.com/uc?export=view&id=1exLj2iaj77qIi5aEF61I28xuJQSIqUOw",
+        "active": true,
+        "published_time": "2020-09-09T05:28:34.2290865Z",
+        "last_modified_time": "2020-09-09T05:28:34.2290865Z"
+      },
+      {
+        "id": "04436d06-06ef-480e-bac0-a56a8ad6df83",
+        "title": "Nhận định Thụy Sĩ - Đức, 01h45 ngày 7/9",
+        "description": "<p>NHẬN ĐỊNH TRẬN ĐẤU THỤY SĨ - ĐỨC, UEFA NATIONS LEAGUE&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+        "thumb": "https://drive.google.com/uc?export=view&id=143K5KWuj4sTCjsjsOQiOM02M-sQzw_1S",
+        "active": true,
+        "published_time": "2020-09-09T05:28:07.966655Z",
+        "last_modified_time": "2020-09-09T05:28:07.966655Z"
+      },
+      {
+        "id": "0f16e5c2-9eec-4854-bf05-59c1e542664b",
+        "title": "Nhận định Hà Lan vs Ý, 01h45 ngày 8/9",
+        "description": "<h1><span style=\"font-weight: bold; color: rgb(0, 0, 255);\">NHẬN ĐỊNH TRẬN ĐẤU HÀ LAN - Ý</span></h1>",
+        "thumb": "https://drive.google.com/uc?export=view&id=1quQvhBlmL04wA2i4K8F7TOig9lDWJ_lP",
+        "active": true,
+        "published_time": "2020-09-09T05:27:05.2080161Z",
+        "last_modified_time": "2020-09-09T05:27:05.2080161Z"
+      },
+      {
+        "id": "549e35d3-e645-43fd-ba0c-3c2c836e7e2a",
+        "title": "Nhận định Hà Lan vs Ba Lan",
+        "description": "<h1><span style=\"font-weight: bold; color: rgb(0, 0, 255);\">NHẬN ĐỊNH TRẬN ĐẤU HÀ LAN - BA LAN</span></h1>",
+        "thumb": "https://drive.google.com/uc?export=view&id=1ajlT5z4CgJBr93s59LqHpcLTHILkwAct",
+        "active": true,
+        "published_time": "2020-09-05T13:20:25.1890979Z",
+        "last_modified_time": "2020-09-05T13:20:25.1890979Z"
+      },
+      {
+        "id": "7f8f01b0-a9f2-4f8b-a3e0-4b2b728b493c",
+        "title": "Siêu Sao Neymar nhiễm Covid",
+        "description": "<h1><span style=\"font-weight: bold; color: rgb(0, 0, 255);\">Neymar và 2 ngôi sao của PSG nhiễm Covid&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>",
+        "thumb": "https://drive.google.com/uc?export=view&id=1mg1nzyfEhAm0duRBNQjd60I3qqfIu7Cv",
+        "active": true,
+        "published_time": "2020-09-04T12:21:06.2880193Z",
+        "last_modified_time": "2020-09-04T12:21:06.2880193Z"
+      }
+    ],
+    "has_prev_page": false,
+    "has_next_page": true
+  },
+  "code": 200,
+  "status": true
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "page": 0,
+    "limit": 10,
+    "total_count": 4,
+    "total_pages": 1,
+    "items": [
+      {
+        "id": "b715971e-0d55-4312-957c-49ebad76c20e",
+        "title": "Cách chơi game mini",
+        "description": "<h1 style=\"line-height: 1.5;\"><span style=\"font-weight: bold; color: rgb(0, 0, 255);\">Hướng dẫn cách chơi Game mini</span></h1>",
+        "thumb": "https://drive.google.com/uc?export=view&id=1H8n7VHOwwvRgWqwUzYA6YgztlSkTLREF",
+        "active": true,
+        "published_time": "2020-09-09T05:24:44.3154237Z",
+        "last_modified_time": "2020-09-09T05:24:44.3154237Z"
+      },
+      {
+        "id": "916b4d28-9913-4bea-9fbf-e9865d0a8927",
+        "title": "Hướng dẫn cách tính lãi",
+        "description": "<h1><span style=\"font-family: &quot;Times New Roman&quot;; color: rgb(0, 0, 255); font-weight: bold;\">Hướng dẫn dùng công cụ tính lãi</span></h1>",
+        "thumb": "https://drive.google.com/uc?export=view&id=1eXeqCLB4Kc3WRPPJubEZCHuhZpK54KA7",
+        "active": true,
+        "published_time": "2020-09-07T18:26:20.7260625Z",
+        "last_modified_time": "2020-09-07T18:26:20.7260625Z"
+      },
+      {
+        "id": "f9b794c4-4185-41fe-ac1b-7471ea9b5ccd",
+        "title": "Cách xem tin tức bóng đá",
+        "description": "Hướng dẫn cách xem tin tức bóng đá&nbsp;",
+        "thumb": "https://drive.google.com/uc?export=view&id=1gh3rmx7Qkm9UwAt53scYuR7t6XXwZWcg",
+        "active": true,
+        "published_time": "2020-09-07T18:13:21.4538676Z",
+        "last_modified_time": "2020-09-07T18:13:21.4538676Z"
+      },
+      {
+        "id": "597cc003-54d0-492e-bd29-f3ce6ceb403b",
+        "title": "Giới thiệu về KuBet App",
+        "description": "<h1><span style=\"font-weight: bold;\">Giới thiệu về KuBet App</span></h1>",
+        "thumb": "https://drive.google.com/uc?export=view&id=1x1S-RpJkN5eWT-iNFEZvI-pq9vM7gUos",
+        "active": true,
+        "published_time": "2020-09-07T16:54:25.6003198Z",
+        "last_modified_time": "2020-09-07T16:54:25.6003198Z"
+      }
+    ],
+    "has_prev_page": false,
+    "has_next_page": true
+  },
+  "code": 200,
+  "status": true
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "id": "91ab622e-806f-403c-8e42-91b455c47ff2",
+    "title": "Hướng dẫn",
+    "thumb": "https://drive.google.com/uc?export=view&id=16AaGSKODrxebNKIwR2C3q1v72AENai7p",
+    "value": "b_cat_blogs:ed435a64-3dca-446e-9f72-9bb158db78fb",
+    "order": 9999,
+    "type": 2,
+    "active": false,
+    "last_modified_time": "0001-01-01T00:00:00",
+    "attr": {
+      "type": 2,
+      "name": "b_cat_blogs",
+      "data": "ed435a64-3dca-446e-9f72-9bb158db78fb"
+    }
+  },
+  "code": 200,
+  "status": true
+}
